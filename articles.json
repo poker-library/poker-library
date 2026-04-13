@@ -444,6 +444,20 @@
     "source": "youtube_api"
   },
   {
+    "id": "auto-3d3c1be0a5",
+    "title": "あなたは何問解ける？ポーカー実力テスト 2026 vol.1",
+    "url": "https://note.com/vast_lotus905/n/n3f4e00c1cad8",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-04-10",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/265257201/rectangle_large_type_2_43d865f9ff0709accaed14873e3ae0b0.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-5027abca53",
     "title": "【ポーカー/JOPT(トーナメント)攻略編】バブルファクターを考慮したプリフロップopenレンジ①",
     "url": "https://note.com/pokerpokerpro/n/n7dafa4d30234",
@@ -1224,6 +1238,20 @@
     "source": "rss"
   },
   {
+    "id": "auto-e18c7ac24a",
+    "title": "ストラドルのすゝめ",
+    "url": "https://note.com/vast_lotus905/n/n127bcef2cb46",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-04-01",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/263764857/rectangle_large_type_2_d085c3cf1ebdeda78081c4f5348b42db.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-d29e2f2499",
     "title": "【バランス陣形】強いハンドの配置ミスは、見えないところで損をする",
     "url": "https://note.com/ryu1poker_2nd/n/n2a6a9fe08d2e",
@@ -1874,6 +1902,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/262757457/rectangle_large_type_2_e9f7b22297d117a64dd8844b4fcdaad2.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-ec0b323403",
+    "title": "タフコーラーに対する 3bet range",
+    "url": "https://note.com/vast_lotus905/n/n1184d7b4f7f0",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-03-28",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/262391776/rectangle_large_type_2_1da6f0171f1c2209ed543af7513f5d4c.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-a6a1e05025",
@@ -2737,6 +2780,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-c7068a03ce",
+    "title": "4 stepで学ぶ、「3bet pot OOP：renge probe bet!」",
+    "url": "https://note.com/vast_lotus905/n/ne0a55e24a352",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-03-18",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/260071791/rectangle_large_type_2_f8467bb54698a80aa198d046b2e2704e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-ab339aad7f",
     "title": "【Antigravity】数理的暴力でポーカーを支配する：実録$1,240利益のGTOエクスプロイト戦略",
     "url": "https://note.com/famous_toad3117/n/n89e7eac0a35b",
@@ -3549,6 +3606,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-f69813763c",
+    "title": "集合分析から学ぶ、ポケットペア大好きマンへのエクスプロイト戦略",
+    "url": "https://note.com/vast_lotus905/n/n4312f443ecff",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-03-05",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/256715900/rectangle_large_type_2_af1cf59b46295ecede77573004a55f7d.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-095fe95f25",
     "title": "超効率解説！ ポストフロップポーカー戦略",
     "url": "https://www.youtube.com/watch?v=8tEjYHTYROM",
@@ -4162,6 +4233,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-69d048dd4a",
+    "title": "レクの横コールをマルチウェイでエクスプロイト！",
+    "url": "https://note.com/vast_lotus905/n/nd6579ea85dbc",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-02-24",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/254268471/rectangle_large_type_2_3a3b558fad42b07df1e68daadc59793e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-579ad3d689",
     "title": "【脱初心者】あなたがポーカーで勝てない理由はGTOが分かってないからです。",
     "url": "https://www.youtube.com/watch?v=hSNgVEGZmH8",
@@ -4703,6 +4788,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-1f5f718d41",
+    "title": "パラダイスシティ(10% 5bb cap) の PF range",
+    "url": "https://note.com/vast_lotus905/n/n9896c5185fe4",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-02-13",
+    "desc": "",
+    "tags": [
+      "レンジ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/250725759/rectangle_large_type_2_a3ec750a523654fc4be89f18815c1637.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-de0084e9f2",
     "title": "ターボを屠る「20BB」の鉄則",
     "url": "https://note.com/7poke_poker/n/n2bd41ccdb797",
@@ -5239,6 +5339,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-9a41246c37",
+    "title": "3wayのCB戦略 #2 問題編（UTG vs ブラインド）",
+    "url": "https://note.com/vast_lotus905/n/n989fdff6ff84",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-02-04",
+    "desc": "",
+    "tags": [
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/248278017/rectangle_large_type_2_a75be014285b81c27371253a2129ab02.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-5949ad8078",
     "title": "【ゴールド帯】12人対戦ランクマッチ攻略法 #poker #ポーカー #EDGEPOKER",
     "url": "https://www.youtube.com/watch?v=P2P3iBGyydw",
@@ -5601,6 +5715,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/247147315/rectangle_large_type_2_45f24d4f7c6cbf0af531ba8be52a3f3d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-6d84af7d44",
+    "title": "3wayのCB戦略 #1 導入編 （UTG vs ブラインド）",
+    "url": "https://note.com/vast_lotus905/n/nba005ef52271",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-01-28",
+    "desc": "",
+    "tags": [
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/247091434/rectangle_large_type_2_90f233eb9edf6a1bd16ff35c568d46e3.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-353529fe3f",
@@ -6232,6 +6360,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-8e57c60ade",
+    "title": "ニューヨークバックレイズのエクスプロイト戦略",
+    "url": "https://note.com/vast_lotus905/n/n82534d80ccd7",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-01-16",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/244285129/rectangle_large_type_2_200b7308b78953ccf23d933f4db534f4.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-22394086f4",
     "title": "目標の置き方と現実",
     "url": "https://note.com/ryu1poker_2nd/n/n4efd223f82ed",
@@ -6504,6 +6646,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-ea1c2ba231",
+    "title": "River : ブロックベットの必要条件【A high / K high ボードの比較】",
+    "url": "https://note.com/vast_lotus905/n/n38d192e23b13",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2026-01-08",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/242157081/rectangle_large_type_2_2fb9d6a61d7f5994b9d1a0283541cccd.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-076f9ce0a3",
@@ -6878,6 +7034,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/240182450/rectangle_large_type_2_7ee5a11638072796f4180d118a6d5e9d.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-2b37cc0db1",
+    "title": "スケアカード と EQR の関係性",
+    "url": "https://note.com/vast_lotus905/n/neb5bef2e5ed2",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-12-31",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/240191057/rectangle_large_type_2_94f3f445fbba92e5fce5c3a8718a183e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-21e236d23d",
@@ -7801,6 +7971,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/9r7OVkBuR0o/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-0dd00d3bfa",
+    "title": "River OOP 座学スポット 3選！",
+    "url": "https://note.com/vast_lotus905/n/na8a6a77408dd",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-12-19",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/237448096/rectangle_large_type_2_336146934fe9bdc6350c658e17c4e869.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-f7df7ae037",
@@ -9189,6 +9373,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-4ccfbe57e1",
+    "title": "ダブルバレル戦略の座学法",
+    "url": "https://note.com/vast_lotus905/n/n585cd2e457a7",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-12-05",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/234148628/rectangle_large_type_2_a7f626fc65f90041b5671a671b0b0ae7.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-ec73ec61c6",
     "title": "待つプレイも実力のうち【ポーカー戦略】#poker #shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=zmxIV6W0E94",
@@ -10245,6 +10443,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-52d517d483",
+    "title": "統計から学ぶ、エクスプロイト戦略",
+    "url": "https://note.com/vast_lotus905/n/n705e6e854978",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-11-22",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/231221389/rectangle_large_type_2_77426e4db05c1b6cbe1e41c85031d15d.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-b965577994",
     "title": "3ポケもってSB。トナメの場合はどうする！？#ポーカー #ゆっくり解説",
     "url": "https://www.youtube.com/watch?v=XqLDjFtAHl8",
@@ -10961,6 +11173,20 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-fca0725575",
+    "title": "check raise のすゝめ 【3bet pot編】",
+    "url": "https://note.com/vast_lotus905/n/n18b72d08a4b7",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-11-12",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/227836709/rectangle_large_type_2_421345d1e5ba9adc5a34f05875da1276.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-f92e41b60e",
     "title": "ダブルチェックレイズ",
     "url": "https://note.com/siru06/n/n2772ea30e8bb",
@@ -11402,6 +11628,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/227422559/rectangle_large_type_2_ec2e63b34421f8a032d238217840fdd5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-73998048c6",
+    "title": "りおんの座学日記 #3 【エクスプロイトを正しい評価】",
+    "url": "https://note.com/vast_lotus905/n/n8be0a8941a9a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-11-06",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/227291499/rectangle_large_type_2_f2c19459f8cb2dd91cf6fda853f76c24.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-a828ff60d1",
@@ -11973,6 +12213,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-8b8bc82384",
+    "title": "EQ過小評価 と value loss",
+    "url": "https://note.com/vast_lotus905/n/n2244793c4a88",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-10-30",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/223702569/rectangle_large_type_2_a4664464f05dcf170450c61e3e28c5b0.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-59a713d1fd",
     "title": "知らないと損！トーナメントのBTNコールレンジ #ポーカー #ゆっくり解説",
     "url": "https://www.youtube.com/watch?v=QhQM5nAaqwU",
@@ -12486,6 +12740,20 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-30cdb7e81d",
+    "title": "MTT CB strategy 総集編",
+    "url": "https://note.com/vast_lotus905/n/n97d12f1bc201",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-10-24",
+    "desc": "",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/224520670/rectangle_large_type_2_3c25bb149e107e29d477ac4d41358125.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-2354022e94",
     "title": "AKが嫌い？それ、プリフロオールインで解決します。#shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=ly6saxhy21U",
@@ -12785,6 +13053,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-6b0daa7107",
+    "title": "linear 3bet pot A high board Turn戦略をマスターしてみた！（後編）",
+    "url": "https://note.com/vast_lotus905/n/n92c223c9f09b",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-10-21",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/223699456/rectangle_large_type_2_d319f60bd4663fee801995538f690fca.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-771fe199ea",
@@ -13869,6 +14151,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-f374c547cc",
+    "title": "エクスプロイトの可搾取量",
+    "url": "https://note.com/vast_lotus905/n/n3daa750493ba",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-10-02",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/218930724/rectangle_large_type_2_2e88fb57abce4a24a5a2d088a90d2c93.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-db9d56d955",
     "title": "ポーカー戦略の土台！レンジ構造を理解する方法#shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=yQk1NDFlNAA",
@@ -14781,6 +15077,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/200577499/rectangle_large_type_2_65350dfa45a75729b3de43bb92201939.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-65d473374e",
+    "title": "linear 3bet pot A high board Turn戦略をマスターしてみた！（前編）",
+    "url": "https://note.com/vast_lotus905/n/n0fb86ec1aa43",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-09-24",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/217508129/rectangle_large_type_2_92ba29d1e60652ac73a687d71fba6fce.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-e0f641e8b9",
@@ -16898,6 +17208,22 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-de55f368d1",
+    "title": "ポジションによるレンジEVの減衰 【3bet pot】",
+    "url": "https://note.com/vast_lotus905/n/n5ceffaa6bb1c",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-09-10",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "レンジ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/214415717/rectangle_large_type_2_1ac0a4913f531d54e0694ad918b1011a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-0f640868a1",
     "title": "【ポーカー戦略】1枚フラッシュボード完成時の最適な立ち回り方#shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=TWZoY7GB3S4",
@@ -17373,6 +17699,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-1adf404d8a",
+    "title": "ポジションによるレンジEVの減衰 【2bet pot 編】",
+    "url": "https://note.com/vast_lotus905/n/n1bd446815ddd",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-09-03",
+    "desc": "",
+    "tags": [
+      "レンジ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/214415694/rectangle_large_type_2_74917413a557edb27ba20446204f89a1.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-e4430d4f3b",
     "title": "ブラフは失敗してもいい #shorts #ポーカー",
     "url": "https://www.youtube.com/watch?v=1OvQPrXroPM",
@@ -17573,6 +17914,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-cf0a8305a9",
+    "title": "脳内ソルバークイズ!!",
+    "url": "https://note.com/vast_lotus905/n/n43419eabbb0e",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-08-27",
+    "desc": "",
+    "tags": [
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/211118208/rectangle_large_type_2_5db049e8601245e1422a3d3db9eeea4e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-1cfe30285d",
@@ -17847,6 +18202,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-7bacd6324e",
+    "title": "Flop:ドンクベットの力学",
+    "url": "https://note.com/vast_lotus905/n/n9fd897d4ddfe",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-08-19",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/209499967/rectangle_large_type_2_5728e81699aa1ec78cd700778713bbc3.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-0ce8f937e7",
@@ -18179,6 +18548,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/OTNjxtBYfts/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-214c452145",
+    "title": "one point 解説⑦ 【ブラフ過少とEQ誤認】",
+    "url": "https://note.com/vast_lotus905/n/nf35841486136",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-08-06",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/206782610/rectangle_large_type_2_fbd2e506ef0093b10a5710bb95beaa54.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-1039b2ad78",
@@ -18571,6 +18954,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-91fbe4e57b",
+    "title": "サテライトのバブルファクターについて",
+    "url": "https://note.com/vast_lotus905/n/n05c243106138",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-07-24",
+    "desc": "",
+    "tags": [
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/203632892/rectangle_large_type_2_c93205017b1b1ef0d10ccbcb21064e09.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-84c7f7d9a2",
     "title": "【強くなりたきゃ見て】OOPはチェック/コールレンジを強くする？#openraze #ポーカー #ゲーム実況",
     "url": "https://www.youtube.com/watch?v=3bEsB-_Pn5c",
@@ -18818,6 +19215,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-7a4a58e048",
+    "title": "海外キャッシュでの限界バリュー3bet ALLIN !!",
+    "url": "https://note.com/vast_lotus905/n/ne56748271a24",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-07-17",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/198877845/rectangle_large_type_2_b5aed280ac84a7bd5757add57a29f158.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-eb71ac8dd0",
     "title": "Building Better River Strategies (And When to Ignore Equity Advantage)",
     "url": "https://blog.gtowizard.com/building_better_river_strategies/",
@@ -19032,6 +19443,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/EgSxOjUCeV0/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-b3c35679ec",
+    "title": "GTO wizard 講習会（学習ロードマップについて）",
+    "url": "https://note.com/vast_lotus905/n/n773032485ff5",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-07-09",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/199287272/rectangle_large_type_2_3bb741b9a59cf28b5df23673af675853.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-c810329477",
@@ -19338,6 +19763,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-a6de8e8d38",
+    "title": "Blind Heads の 力学について",
+    "url": "https://note.com/vast_lotus905/n/n252a419b31f0",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-07-02",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/198485920/rectangle_large_type_2_fe2531a7d51aeffebd54d016983d245a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-9cc1e4aa52",
     "title": "HJ vs BTN 3bet pot フロップQQ6r",
     "url": "https://note.com/siru06/n/n013ed1a038a4",
@@ -19549,6 +19988,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/198155144/rectangle_large_type_2_5074401c0a4197db12403a30197b8b5b.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-b16ec9d7cb",
+    "title": "3bet pot CB戦略  3つの戦略的考察",
+    "url": "https://note.com/vast_lotus905/n/nb1d64205db60",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-06-25",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/198264864/rectangle_large_type_2_011d7aeff831a030a98e2494c958e560.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-af01c20fc1",
@@ -19866,6 +20319,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-9224e8ba95",
+    "title": "弱Reg 討伐 クエスト！",
+    "url": "https://note.com/vast_lotus905/n/ne9693cd1ae48",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-06-17",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/196594968/rectangle_large_type_2_de34f3913a1ff2dcf98b14cd53382a99.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-406518e3bf",
     "title": "Tournament Poker’s Hidden Stakes",
     "url": "https://blog.gtowizard.com/tournament_pokers_hidden_stakes/",
@@ -19948,6 +20415,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-892647dc46",
+    "title": "すこやかぽーかー会 新規メンバー募集！",
+    "url": "https://note.com/vast_lotus905/n/nafa278d4543f",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-06-15",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/195177394/rectangle_large_type_2_0011fd31833fd56cf924a2b87321a5ab.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-964afda37e",
@@ -20061,6 +20542,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-56cc0d8b2a",
+    "title": "ブラフハンドとブロッカー効果 vol.3 【ブラフキャッチャーについて】",
+    "url": "https://note.com/vast_lotus905/n/n0ed39a84ba84",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-06-11",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/195386878/rectangle_large_type_2_6ccabe27ffd1126e645de2af5233f8dc.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-059ddd81cf",
@@ -20373,6 +20868,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-7ff50b1bad",
+    "title": "りおんの海外キャッシュ 【ハンドレビュー#1】",
+    "url": "https://note.com/vast_lotus905/n/n98ed18eecab7",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-06-04",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/193892615/rectangle_large_type_2_a5217da0e53ecb7d3b4ae4306de90150.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-97c54842e1",
     "title": "【Poker】2日目 正しいアクションは？今日のGTOクイズ！#Poker #GTO #アクション解説",
     "url": "https://www.youtube.com/watch?v=6qrsyaNM0-0",
@@ -20602,6 +21111,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-c76d679486",
+    "title": "レンジ内比率から学ぶ、特大ドンクベット",
+    "url": "https://note.com/vast_lotus905/n/nd17616b55330",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-05-28",
+    "desc": "",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/191531554/rectangle_large_type_2_a9c2c45e4c3c35f55e0273443c029178.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-22aef9acfd",
     "title": "Supporting Operators in Protecting Online Poker",
     "url": "https://blog.gtowizard.com/supporting_operators_in_protecting_online_poker/",
@@ -20790,6 +21313,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-225234d92b",
+    "title": "りおんの座学日記#2 【10% rake と Deep stack】",
+    "url": "https://note.com/vast_lotus905/n/nc881cc4823b1",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-05-22",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/195282355/rectangle_large_type_2_4313a7ce925071c4acb4aa5b13ef2053.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-04e98ec610",
     "title": "【ポーカー初心者必見】マルチウェイで絶対にやってはいけないミスプレイ3選",
     "url": "https://www.youtube.com/watch?v=45b8m3MVuyY",
@@ -20818,6 +21355,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-79c223bd57",
+    "title": "【不利なボードでドンクベット!?】",
+    "url": "https://note.com/vast_lotus905/n/n57a6a2dbe940",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-05-21",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/191263753/rectangle_large_type_2_118a2af329e496d112b517891ec57468.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-da3f8736ef",
@@ -20949,6 +21500,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-84ac97d306",
+    "title": "りおんの座学日記＃1（10％ rake について）",
+    "url": "https://note.com/vast_lotus905/n/ndabcb8a347cd",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-05-16",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/191514336/rectangle_large_type_2_ec3de64f5ce22bb5b3dc794f6a7c6366.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-87eef6b1ea",
     "title": "AIツールを活用した初心者向けポッドキャスト作成ガイド",
     "url": "https://note.com/gonico/n/n0314d62f59a4",
@@ -21004,6 +21569,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-8e7d1def24",
+    "title": "Overbet Prove の後始末",
+    "url": "https://note.com/vast_lotus905/n/nf3b72a6dbf38",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-05-14",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/189061419/rectangle_large_type_2_efe3f1b7e1179da0d73259864d5ddfcb.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-3f484eb344",
@@ -21441,6 +22020,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-d11c21b96a",
+    "title": "バブルファクター と CB戦略",
+    "url": "https://note.com/vast_lotus905/n/n1c79b55a47f1",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-04-30",
+    "desc": "",
+    "tags": [
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/187150176/rectangle_large_type_2_09bf540057c567f153b66d1cbfc92cf1.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-a3bba6fdf7",
     "title": "【ポーカー初心者向け】知らなきゃ養分確定！SBプリフロップ完全解説！アミューズメントカジノのポーカー攻略！",
     "url": "https://www.youtube.com/watch?v=4c0h_Homhlg",
@@ -21569,6 +22162,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-7a68fbeae5",
+    "title": "ブラフハンドとブロッカー効果 vol.2",
+    "url": "https://note.com/vast_lotus905/n/n37435baf67d7",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-04-24",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/184044846/rectangle_large_type_2_db1851318eecb074696a02760f705870.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-3ae3bd1cb8",
     "title": "アミューズハンドレビュー",
     "url": "https://note.com/siru06/n/nf743f6a73622",
@@ -21643,6 +22250,20 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-33f1a64bf8",
+    "title": "第1回 ヘッドフォンポーカーと座学会",
+    "url": "https://note.com/vast_lotus905/n/n356720a0de20",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-04-16",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/183528640/rectangle_large_type_2_ba321042f5db522b649a93d7abf5a752.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-f9cf7cbec1",
     "title": "When To Just Shove Post Flop in ICM Spots",
     "url": "https://blog.gtowizard.com/when-to-just-shove-post-flop-in-icm-spots/",
@@ -21702,6 +22323,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/hJhFjU5cSTs/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-23c9b8134a",
+    "title": "4bet pot ”フィールドリーク”をエクスプロイト！",
+    "url": "https://note.com/vast_lotus905/n/n9d2a4d1a8ec6",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-04-09",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/179315582/rectangle_large_type_2_5e01df6fdd3f46d02bc9d199105bae47.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-ff0a179add",
@@ -21811,6 +22446,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-1a22c830a6",
+    "title": "💓lovely board strategy💓",
+    "url": "https://note.com/vast_lotus905/n/ne5db695c3e4f",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-04-01",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/181747147/rectangle_large_type_2_e609888c54dd38ac4f55fd3ae6b89668.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-a8c7fc0891",
     "title": "GTO戦略とは何か",
     "url": "https://www.youtube.com/watch?v=YF0Tfb7taFo",
@@ -21880,6 +22529,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/181293980/rectangle_large_type_2_4858152b5e12b18814689ea12a8a22e6.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-1dec4226e1",
+    "title": "ブラフハンドとブロッカー効果",
+    "url": "https://note.com/vast_lotus905/n/ne44404fee60a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-03-26",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/180894008/rectangle_large_type_2_2f8c9f453149ce1d6001e0fd0f0dd4c1.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-50984ee0d4",
@@ -22015,6 +22678,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/dnsU1MNWNms/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-2dc25c2c2c",
+    "title": "フラッシュドローだけでブラフしていいのか？",
+    "url": "https://note.com/vast_lotus905/n/nf6372b26a896",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-03-19",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/164587888/rectangle_large_type_2_df8c6ad19969e9860782cd864bbc9b73.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-d747714ba0",
@@ -22171,6 +22848,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/Nsu903ZHIV8/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-0f34f98ea0",
+    "title": "River の OOP check レンジの作り方 vol.1 ~A high board編~",
+    "url": "https://note.com/vast_lotus905/n/n9194d34cedcc",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-03-12",
+    "desc": "",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/178321056/rectangle_large_type_2_f6ec4db4c96a02f8dfd7d855281444b5.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-8eacb71396",
@@ -22336,6 +23027,20 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-193eb007e1",
+    "title": "one point 解説⑥ 3bet pot hit したAKの使い方",
+    "url": "https://note.com/vast_lotus905/n/n87058f2f49aa",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-03-05",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169323230/rectangle_large_type_2_14ab115de5b245f9d97a436e4579766f.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-6c239f93ce",
     "title": "Blockers & Unblockers: The Secret to Picking Great Bluffs",
     "url": "https://blog.gtowizard.com/blockers-unblockers-the-secret-to-picking-great-bluffs/",
@@ -22463,6 +23168,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-d9458bfa2d",
+    "title": "Flop 3bet strategy",
+    "url": "https://note.com/vast_lotus905/n/n72f90280b915",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-02-27",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/176607554/rectangle_large_type_2_05da26b72b1f76c5fb7c1263ab980d5c.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-aca36fb835",
@@ -22598,6 +23317,20 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-8dc6ab3e0d",
+    "title": "3bet pot Probe strategy",
+    "url": "https://note.com/vast_lotus905/n/nec3c356265e8",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-02-19",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/173501520/rectangle_large_type_2_54f60ba0acf642ab80aa056dd5e8820d.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-fdc6ee4096",
     "title": "How To Respond to Large Preflop Raises in Poker",
     "url": "https://blog.gtowizard.com/how-to-respond-to-large-preflop-raises-in-poker/",
@@ -22684,6 +23417,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/bXO7iI2UJ3I/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-e94703c5e4",
+    "title": "SBコールドコール のすゝめ",
+    "url": "https://note.com/vast_lotus905/n/n9caaf09fcd23",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-02-12",
+    "desc": "",
+    "tags": [
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/170059678/rectangle_large_type_2_c0e49f7529182097c970842ff2b8eaa9.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-09945db5aa",
@@ -22786,6 +23533,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-914185f4f9",
+    "title": "3bet pot で ポケットペア大好きマンへの対策 〜Turn戦略〜",
+    "url": "https://note.com/vast_lotus905/n/n1717af828f89",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-02-05",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/173180944/rectangle_large_type_2_038906f41620878c413fbe803ce63990.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-9d06b0e8f5",
@@ -22986,6 +23747,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-2279b87cb9",
+    "title": "4bet pot Flop CB戦略 〜IP編〜",
+    "url": "https://note.com/vast_lotus905/n/nd2b2f342b4a0",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-30",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/165392832/rectangle_large_type_2_1736443adc99e04815076c17efe231eb.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-854805ceb8",
@@ -23320,6 +24095,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-56ed0d46c3",
+    "title": "3bet pot モノトーンボード（SB vs HJ）",
+    "url": "https://note.com/vast_lotus905/n/n3ed239dc104d",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-22",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169323743/rectangle_large_type_2_f3d0100d7bbaee9209ed3aa40ce445d7.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-30059160c2",
     "title": "ポーカーAI誕生の歴史 #pokerroyale #ゆっくり解説 #ポーカー",
     "url": "https://www.youtube.com/watch?v=lzuvC6EUAQk",
@@ -23360,6 +24150,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2025/01/gto-wizard-fixing-a-poker-leak-part-1-spotting-and-correcting-errors-app-thumbnail-1200x675.png",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-6a6160dd32",
+    "title": "話題の1 handについての検証",
+    "url": "https://note.com/vast_lotus905/n/n22674cf09fde",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-20",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/170661803/rectangle_large_type_2_4d5b34c07758b41b4d8a31fb394e9ef9.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-2995bd4bc3",
@@ -23433,6 +24237,20 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-3f527570c7",
+    "title": "フロップ250%の世界(第2編)",
+    "url": "https://note.com/vast_lotus905/n/n94b1f72f8404",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-17",
+    "desc": "",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/170228403/rectangle_large_type_2_144e55d17dcd71dc79ec5b69880cc021.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-e6675cd2c3",
     "title": "【ポーカー中級者必見】チェックレイズされたときの思考を解説します",
     "url": "https://www.youtube.com/watch?v=owctHcRLpzc",
@@ -23487,6 +24305,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/170221651/rectangle_large_type_2_1b1db5aaf991f8b7d4b99ecc8ee90dde.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-46b2138842",
+    "title": "ライブポーカーでの過激なエクスプロイト戦略 vol.2 ～失敗編～（後編）",
+    "url": "https://note.com/vast_lotus905/n/nfaef7ce763ef",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-15",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169039906/rectangle_large_type_2_e122d37fef93dfae9822195f525e3b54.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-42f90fb87b",
@@ -23650,6 +24482,20 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-94f5d13e63",
+    "title": "4bet に AK を fold！？",
+    "url": "https://note.com/vast_lotus905/n/nd9076647a1fb",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-08",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169132059/rectangle_large_type_2_4654889a46a37208b2dfb890eb8b743a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-9be98c1d7f",
     "title": "重要なのは最後まで冷静にプレイすること。【この動画を見てほしい】",
     "url": "https://www.youtube.com/watch?v=Y1sQWvWAibg",
@@ -23751,6 +24597,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-b57742d6f3",
+    "title": "Blind vs Blind 3Bet Pot Flop CB戦略",
+    "url": "https://note.com/vast_lotus905/n/n63e732a9eec2",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2025-01-03",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/167146075/rectangle_large_type_2_a1f0f02d8496dca3a4b3ed411fed2d51.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-f14206863b",
     "title": "【ポーカー初心者必見】3betされたときの対処法（プリフロップ編）",
     "url": "https://www.youtube.com/watch?v=CexdYCzoLbg",
@@ -23836,6 +24696,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/12/gto-wizard-the-theory-of-bounty-tournaments-part-2-icm-and-equity-drops-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-72b4ea71fb",
+    "title": "ライブポーカーでの過激なエクスプロイト vol.2 〜失敗編〜（前編）",
+    "url": "https://note.com/vast_lotus905/n/nbe062dd0df07",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-30",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169039896/rectangle_large_type_2_0b73b3b7a6879eba49ded91b8ac3b359.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-44aba96198",
@@ -23926,6 +24800,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-5a55141a33",
+    "title": "刺さらなかったローポケットの扱い方 vol.1 ～2bet pot編～",
+    "url": "https://note.com/vast_lotus905/n/n18af51e81021",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-27",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/167393869/rectangle_large_type_2_ed9ca530a36aca435d37326f412a3e22.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-e22c9aea9d",
@@ -24059,6 +24947,34 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-9a240d846d",
+    "title": "ライブポーカーでの過激なエクスプロイト 〜検証編〜（後編）",
+    "url": "https://note.com/vast_lotus905/n/n19f6a76e171a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-20",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/166470087/rectangle_large_type_2_e993637d1215610c7e9cee47a1d49838.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-59fbde4ef7",
+    "title": "ライブポーカーでの過激なエクスプロイト 〜実践例〜（前編）",
+    "url": "https://note.com/vast_lotus905/n/nb2afe298eaa4",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-19",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/165463424/rectangle_large_type_2_4e0a3d10f276e74439462e2dab481929.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-7b8657816c",
     "title": "【ポーカー初心者必見】爆勝ちできるJJの扱い方（プリフロップ編）",
     "url": "https://www.youtube.com/watch?v=fbUkTbZI7Ww",
@@ -24190,6 +25106,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/165779869/rectangle_large_type_2_14565b81aaed7694c6428ae88657ed13.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-e7073b5915",
+    "title": "レンジ の「多様性」",
+    "url": "https://note.com/vast_lotus905/n/n0f18d7724236",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-14",
+    "desc": "",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/165578631/rectangle_large_type_2_46bdec588180357774d0990aaf128728.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-34a2300042",
@@ -24479,6 +25409,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-37d1a9ed93",
+    "title": "GTO wizard と 3人の学生。",
+    "url": "https://note.com/vast_lotus905/n/ne4691dddf72e",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-03",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/164195856/rectangle_large_type_2_5ca02d5ccd68bf254ebb3176617f0983.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-82621a0737",
     "title": "ポーカープロが1ヵ月で300万円稼いだ全てのハンドをお見せします。これは見なきゃ損…",
     "url": "https://www.youtube.com/watch?v=V07p6pqkG-4",
@@ -24523,6 +25467,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-b83152c0c3",
+    "title": "簡易戦略をカウンター！！",
+    "url": "https://note.com/vast_lotus905/n/n28696d2fd12a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-12-01",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/163942865/rectangle_large_type_2_1c1e74df73ed227f9771c17e4405f299.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-63aabf113e",
     "title": "River Donkの必要性とExploit",
     "url": "https://note.com/alpt/n/n50fd44e714be",
@@ -24550,6 +25508,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/GaUcqOvY3DY/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-cbd507fbdd",
+    "title": "MTT Short Stack 戦略 ~Chip EV編~",
+    "url": "https://note.com/vast_lotus905/n/n92b2ab773106",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-11-28",
+    "desc": "",
+    "tags": [
+      "MTT"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/163549395/rectangle_large_type_2_abcb4b94b9d865058ed4d659c039d443.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-dbc67acf9e",
@@ -24768,6 +25740,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-02b76ea6ea",
+    "title": "3bet pot 「AJT」でレンジcheck！",
+    "url": "https://note.com/vast_lotus905/n/n1ef2e73ac183",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-11-17",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/161915001/rectangle_large_type_2_59475d5cbc72adc7b0b6ad431ddbfb42.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-8e0e4d1c41",
     "title": "ポーカーで勝つための究極の秘訣！プリフロップの基本原則で収益を最大化 #poker #ポーカー #テキサスホールデム",
     "url": "https://www.youtube.com/watch?v=mGmAIIon7Jw",
@@ -24882,6 +25869,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/3YtcocYdGQw/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-6323c85020",
+    "title": "レンジのボリュームゾーン",
+    "url": "https://note.com/vast_lotus905/n/n068e20d3a371",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-11-13",
+    "desc": "",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/195281919/rectangle_large_type_2_77564c97cf1b2b40be6603a2ea1158cb.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-c142762f78",
@@ -25000,6 +26001,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-2c4e76318f",
+    "title": "NLHEプレーヤーに送るPLO初心者講座①",
+    "url": "https://note.com/vast_lotus905/n/nf242fa9dba54",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-11-08",
+    "desc": "",
+    "tags": [
+      "入門"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/160985758/rectangle_large_type_2_fde2a2dc0700a1bb17da36695c9856cc.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-4f60435ef9",
     "title": "【永久保存版】ポーカー勝ち組の感性が全て分かります 前編",
     "url": "https://www.youtube.com/watch?v=Fh_Lab6R8Rk",
@@ -25088,6 +26103,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/160458525/rectangle_large_type_2_83a096a6c25f5dda17b054b09e8bee8e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-1f0dffb2d4",
+    "title": "3bet pot OOP の 脆弱性",
+    "url": "https://note.com/vast_lotus905/n/n6c0267bdd485",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-11-03",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/160382852/rectangle_large_type_2_d8435fc91e024702511d1646fb6252a4.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-7862356f9f",
@@ -25220,6 +26249,21 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-9f100882f8",
+    "title": "亜型AKQゲームとBB 3bet pot",
+    "url": "https://note.com/vast_lotus905/n/n13c0092dcc8b",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-10-24",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/159097009/rectangle_large_type_2_6d51822e0cb345ede93174d43e0a77c2.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-c0450ba582",
     "title": "プリフロ勝率クイズ！ポーカートーナメントの座学 #pokerroyale #ポーカー",
     "url": "https://www.youtube.com/watch?v=VjUye1JpfVQ",
@@ -25307,6 +26351,34 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/158408670/rectangle_large_type_2_f7f66b79eb1cf435b7558a82a4768a1c.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-fe4926f8d1",
+    "title": "one point 解説⑤ ハイカードでのフロート",
+    "url": "https://note.com/vast_lotus905/n/n40d3eae7f2c8",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-10-18",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/160286269/rectangle_large_type_2_6c9508670efc0197f075ec0e37d561ed.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-32a1c7463a",
+    "title": "実力確認テスト vol.6 ～解説 後編～",
+    "url": "https://note.com/vast_lotus905/n/n1eed253ae257",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-10-17",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/154981843/rectangle_large_type_2_18e79ca162c8a5148e451eee3b94f4a4.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-e21c0ba706",
@@ -25470,6 +26542,20 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-859c720a25",
+    "title": "エクスプロイト戦略の引出しを増やそう！！",
+    "url": "https://note.com/vast_lotus905/n/n30ff14995d76",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-10-01",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/156321009/rectangle_large_type_2_f5e9c5b418bde3d1c3e2ac474baed4eb.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-200ea1aa95",
     "title": "ポーカーの癖から相手のブラフを見抜く方法 #ポーカー",
     "url": "https://www.youtube.com/watch?v=IdRXRWCTPAY",
@@ -25510,6 +26596,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/156105127/rectangle_large_type_2_9daf27678291667db10bf5b0df5a77ad.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-868739eae3",
+    "title": "統計から学ぶ、フィールドエクスプロイト",
+    "url": "https://note.com/vast_lotus905/n/nb79227d06634",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-29",
+    "desc": "",
+    "tags": [
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/155160815/rectangle_large_type_2_f16ed23be6387c75fb0e4c28cd007f1e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-f1f4847ccd",
@@ -25626,6 +26726,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-1244ca7c7e",
+    "title": "ハルのリングゲーム配信 ハンドレビュー 第二編",
+    "url": "https://note.com/vast_lotus905/n/n1d59556e6858",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-21",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/155051911/rectangle_large_type_2_2a580d2b36b9d63a6ae597ff7df9881e.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-881e4f54e7",
     "title": "何と戦っているのか？",
     "url": "https://note.com/siru06/n/n7e85ac60f4b6",
@@ -25638,6 +26752,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-97972832c3",
+    "title": "ハルのリングゲーム生配信 ハンドレビュー 第一編",
+    "url": "https://note.com/vast_lotus905/n/n070d4992c758",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-20",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/155051910/rectangle_large_type_2_b261c1430251a6bb32924cd0e7766384.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-354e593078",
@@ -25666,6 +26794,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/09/gto-wizard-introducing-gto-wizard-play-mode-play-poker-with-friends-study-effortlessly-blogpost-thumbnail.png",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-68fe8367cc",
+    "title": "実力確認テスト vol.6 ～解説 前編～",
+    "url": "https://note.com/vast_lotus905/n/n24248916d508",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-18",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/154695338/rectangle_large_type_2_2083d68667fd9cf75e191115dd95935a.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-c98f8e0208",
@@ -25740,6 +26882,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-736b09e31b",
+    "title": "one point解説④ 3bet pot の オーバーペアの使い方",
+    "url": "https://note.com/vast_lotus905/n/n5e84adf99af5",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-13",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/153310074/rectangle_large_type_2_ce59b7fbc8d84cdd3873ed8dbc3b9b00.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-a5f4071fa5",
@@ -25843,6 +26999,20 @@
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/09/gto-wizard-mdf-vs-icm-rethinking-bluffing-defense-strategies-in-mtts-blogpost-thumbnail-3.png",
     "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-4e1760295b",
+    "title": "Kハイでブラフキャッチ？？",
+    "url": "https://note.com/vast_lotus905/n/n4596e911b7f8",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-09-02",
+    "desc": "",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/152827325/rectangle_large_type_2_8daca0a40465d6ffbe426f4fd753aada.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-3cb0f50f31",
@@ -26021,6 +27191,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-c7111a7a2e",
+    "title": "check raise のすゝめ ②(被check raise編)",
+    "url": "https://note.com/vast_lotus905/n/n6574b22d998e",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-08-22",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/151525621/rectangle_large_type_2_a09dc2ed452e2065867ef0155a75be47.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-ec871146a8",
     "title": "poker gto quiz HJvsBTN 3bet pot #poker #gtowizard #ggpoker #テキサスホールデム #ポーカー #ポーカーチェイス",
     "url": "https://www.youtube.com/watch?v=jGIGeSDSM78",
@@ -26099,6 +27283,21 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/9Un0Wx3SvX8/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-02d7c62792",
+    "title": "one point 解説③ ～ICM下でのcall range～",
+    "url": "https://note.com/vast_lotus905/n/nab7eb1258157",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-08-20",
+    "desc": "",
+    "tags": [
+      "レンジ",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/151360229/rectangle_large_type_2_b0d121b80d4b188ba6bd322cf02febdf.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-53b1e93d91",
@@ -26248,6 +27447,34 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-f4f259fe97",
+    "title": "one point解説② (リバーで拾ったTP）",
+    "url": "https://note.com/vast_lotus905/n/n8587c62b70b5",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-08-15",
+    "desc": "",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/150771883/rectangle_large_type_2_def05e96bf86e6a8d89b391b0266946b.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
+    "id": "auto-5886085839",
+    "title": "one point 解説① ブロックbet編",
+    "url": "https://note.com/vast_lotus905/n/nbccc9035c1c1",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-08-15",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/150895248/rectangle_large_type_2_96e0e1a7f97266572b3eae9958a718f8.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-3ad599e2a1",
@@ -26412,6 +27639,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/5ZG_HDmURZU/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-48a3071361",
+    "title": "デポラー戦略ってなぁに？",
+    "url": "https://note.com/vast_lotus905/n/n1bc3a3f5ede0",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-08-09",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/149714705/rectangle_large_type_2_36b85a81c8ef07d03d8652833bd19c72.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-d34c69a0c6",
@@ -26866,6 +28107,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-7be370b52e",
+    "title": "フロップ250%の世界(第1編)",
+    "url": "https://note.com/vast_lotus905/n/n87eb6186ca7e",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-07-27",
+    "desc": "",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/170227551/rectangle_large_type_2_b179b1fca0b05d793deee006d45a44c5.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-b50f8ce828",
     "title": "ポーカーGTOクイズ #ポーカー #テキサスホールデム #gtowizard",
     "url": "https://www.youtube.com/watch?v=O3U-6o2mOiw",
@@ -27125,6 +28380,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-8068b2aa2f",
+    "title": "check raise の すゝめ",
+    "url": "https://note.com/vast_lotus905/n/n7024f56fbc24",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-07-12",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/146441955/rectangle_large_type_2_039b5613f7134c1f5534a720ceb8c560.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-fe20a59400",
@@ -27982,6 +29251,21 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-a1678e128a",
+    "title": "フロップ見たいマンのエクスプロイト戦略！（2bet pot編)",
+    "url": "https://note.com/vast_lotus905/n/n169869661b75",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-05-25",
+    "desc": "",
+    "tags": [
+      "ポストフロップ",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/141758131/rectangle_large_type_2_7c4f1708e5441252bbd97f3a8201e27f.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-00a04ef301",
     "title": "NTポーカーポストフロップ何切る+初級クイズ①",
     "url": "https://www.youtube.com/watch?v=Ol9RW9GORX8",
@@ -28052,6 +29336,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/141100329/rectangle_large_type_2_19290ff2c44ad7c1d76195a397c042f8.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-a0978de9e6",
+    "title": "実力確認テスト vol.3　解説",
+    "url": "https://note.com/vast_lotus905/n/n1bf490a9e945",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-05-19",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/140900903/rectangle_large_type_2_5e5bbcce854ef0674bad556d20bc025b.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-b5c64b7b28",
@@ -28231,6 +29529,20 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-4aefdee2ec",
+    "title": "Spin & Gold 座学note",
+    "url": "https://note.com/vast_lotus905/n/nb8269d396316",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-05-06",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/139681949/rectangle_large_type_2_a715ad7fd6ac0eed1e8b1dd52c94f359.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-933242bddf",
     "title": "【MTT】OOP Middle Stackの一発ALL-INを考える",
     "url": "https://note.com/zoomagaaa/n/n3bca3a1f7791",
@@ -28375,6 +29687,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-c4a3ee9da9",
+    "title": "レンジ安ベットの有効的な使い方",
+    "url": "https://note.com/vast_lotus905/n/n0ae17aea58fb",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-04-27",
+    "desc": "",
+    "tags": [
+      "レンジ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/137593923/rectangle_large_type_2_710ceedcdc8da1279bdd54d9db2dd2f5.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-dae2bbd65e",
     "title": "相手のミスの隙を突け！トッププロが究極のエクスプロイト方法を世界一わかりやすく解説！！！",
     "url": "https://www.youtube.com/watch?v=IPbxB9G3OPs",
@@ -28462,6 +29788,20 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/DQ2cLm-Nei4/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-cb8ee0fdc0",
+    "title": "実力テストvol.2 解説",
+    "url": "https://note.com/vast_lotus905/n/n42cda8e12638",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-04-17",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/137511516/rectangle_large_type_2_9287148733a29286ff6b7f2c28a5bb7c.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-9b3c3e14ea",
@@ -28985,6 +30325,22 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-ff82ba8c03",
+    "title": "3bet に降りない相手へのエクスプロイト戦略(プリフロップ編）",
+    "url": "https://note.com/vast_lotus905/n/n934e2a8e4153",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-03-23",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/134782573/rectangle_large_type_2_ca8fd156df4dccb088dc8a0bbf714b5b.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-babf622a09",
     "title": "二面打ち",
     "url": "https://note.com/siru06/n/n39bc4289e9f6",
@@ -28997,6 +30353,21 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-e4daaf1de2",
+    "title": "3bet potで\"スーコネ\"大好きマンへのエクスプロイト戦略",
+    "url": "https://note.com/vast_lotus905/n/n5d55663d7a43",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-03-20",
+    "desc": "",
+    "tags": [
+      "プリフロップ",
+      "エクスプロイト"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/134466965/rectangle_large_type_2_91ef374e2018d45345b854cdf85b49e2.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-59e49ed85c",
@@ -29041,6 +30412,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/134249619/rectangle_large_type_2_75ec8e57a159e25f5dbb580a883677a5.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-29dea10bb4",
+    "title": "3ベットポットにおけるポケット大好きマンへの対策(Re-write version)",
+    "url": "https://note.com/vast_lotus905/n/ne8771312ccff",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-03-16",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/133929124/rectangle_large_type_2_4bf40cbaac7755f3b406ea9d58a6ca02.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-9fd1be72e8",
@@ -29114,6 +30499,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/133508315/rectangle_large_type_2_00e5af19b92d7e46503630aae1ed8a3e.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-de65eeaeff",
+    "title": "3bet potでポケットペア大好きマンへの対策",
+    "url": "https://note.com/vast_lotus905/n/n0d746da2e01b",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-03-09",
+    "desc": "",
+    "tags": [
+      "プリフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/169213315/rectangle_large_type_2_a181c69e50e746d55ffac69ac77fe4d1.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-913dfbcfc7",
@@ -29303,6 +30702,20 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-934cc4af0d",
+    "title": "リバーにおけるバリューの下限の決定方法",
+    "url": "https://note.com/vast_lotus905/n/n00b5a6de555a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-02-25",
+    "desc": "",
+    "tags": [
+      "ポストフロップ"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/132053984/rectangle_large_type_2_6ac8b32d4ef7daede15abb2afd29cd43.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-84c67192eb",
@@ -29944,6 +31357,20 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-251d02405b",
+    "title": "頻出のEQグラフ3選！",
+    "url": "https://note.com/vast_lotus905/n/n617ce2cc6e6a",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-01-21",
+    "desc": "",
+    "tags": [
+      "ポーカー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/127042683/rectangle_large_type_2_c262d2ff4d7aa61524a690001a8721e9.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
+  },
+  {
     "id": "auto-92460f22cd",
     "title": "【ポーカー初心者必見】爆勝ちできるAxスーテッドの扱い方（プリフロップ編）",
     "url": "https://www.youtube.com/watch?v=A_Hozur5-5Y",
@@ -30017,6 +31444,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/127636738/rectangle_large_type_2_712f0b5caa0dd60ecafe8529112cd607.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-0dbf19fc01",
+    "title": "OverBet Strategy(BTN vs BB)",
+    "url": "https://note.com/vast_lotus905/n/n512ef17b9d2d",
+    "author": "すこやかぽーかー会",
+    "platform": "note",
+    "date": "2024-01-13",
+    "desc": "",
+    "tags": [
+      "ポジション"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/127559355/rectangle_large_type_2_7d4ba418a398f8f366c6bbfa48c03654.png?fit=bounds&quality=85&width=1280",
+    "source": "fetch_creator"
   },
   {
     "id": "auto-9e02a3c233",
