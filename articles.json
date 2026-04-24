@@ -40,7 +40,6 @@
       "ポストフロップ",
       "理論",
       "初心者向け",
-      "中級者向け",
       "OOP",
       "SRP",
       "ブラフ",
@@ -103,8 +102,6 @@
       "理論",
       "リーク",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "勉強法",
       "テル",
       "ブラフ",
@@ -136,7 +133,6 @@
       "特定のポジション",
       "レーキ",
       "初心者向け",
-      "中級者向け",
       "理論",
       "ブラフ",
       "コール",
@@ -186,7 +182,6 @@
       "マルチウェイ",
       "エクスプロイト",
       "初心者向け",
-      "中級者向け",
       "バリュー",
       "ブラフ",
       "ベット",
@@ -249,7 +244,6 @@
       "理論",
       "エクスプロイト",
       "初心者向け",
-      "中級者向け",
       "ベット",
       "チェック",
       "SRP",
@@ -402,9 +396,7 @@
       "ポストフロップ",
       "理論",
       "ベット",
-      "初心者向け",
-      "中級者向け",
-      "上級者向け"
+      "初心者向け"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/69be732ba6be3e26cd573971a4834d91ce83b0b3.png",
     "source": "rss"
@@ -428,8 +420,6 @@
       "エクスプロイト",
       "勉強法",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "ベット",
       "コール",
       "フォールド"
@@ -448,7 +438,6 @@
     "tags": [
       "プリフロップ",
       "初心者向け",
-      "中級者向け",
       "フォールド",
       "ブラフ",
       "バリュー"
@@ -466,7 +455,6 @@
     "desc": "■ この記事のターゲット 続きをみる",
     "tags": [
       "キャッシュゲーム",
-      "中級者向け",
       "プリフロップ",
       "フロップ",
       "ターン",
@@ -516,8 +504,7 @@
       "特定の役",
       "特定のポジション",
       "GTO",
-      "初心者向け",
-      "中級者向け"
+      "初心者向け"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fd1508705da52c97ed03fe33d065a458ac9c449e.png",
     "source": "rss"
@@ -3451,8 +3438,7 @@
     "date": "2026-03-13",
     "desc": "ポーカーを始めたばかりの皆さん、ゲームのルールは覚えたけれど、「次に何をすればいいのか分からない」と悩んでいませんか ...",
     "tags": [
-      "入門",
-      "初心者"
+      "入門"
     ],
     "thumbnail": "https://i.ytimg.com/vi/b2c0fyE0qgw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -4490,8 +4476,7 @@
     "tags": [
       "プリフロップ",
       "ポストフロップ",
-      "入門",
-      "初心者"
+      "入門"
     ],
     "thumbnail": "https://i.ytimg.com/vi/dDvdRahxZ6o/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -5026,9 +5011,7 @@
       "プリフロップ",
       "ポストフロップ",
       "レンジ",
-      "ヘッズアップ",
-      "中級者",
-      "初心者"
+      "ヘッズアップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/ureUVOKutHE/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -5875,8 +5858,7 @@
       "OOP",
       "SRP",
       "CB",
-      "初心者向け",
-      "中級者向け"
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/247959574/rectangle_large_type_2_ccdd0a3472286000cfcd40b61793a701.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -5895,8 +5877,7 @@
       "GTO",
       "ポストフロップ",
       "リバー",
-      "初心者向け",
-      "中級者向け"
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/255596345/rectangle_large_type_2_e438685a3b133d87ed670feaf7de1899.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -5921,8 +5902,6 @@
       "理論",
       "エクスプロイト",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "SRP",
       "3BP"
     ],
@@ -6353,7 +6332,7 @@
     "tags": [
       "ポジション",
       "MTT",
-      "BTN"
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/HrS4MaGLtVQ/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -6426,7 +6405,8 @@
     "tags": [
       "ポジション",
       "MTT",
-      "BTN"
+      "特定のポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://i.ytimg.com/vi/GwMzmL9qcYw/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -6485,7 +6465,7 @@
       "プリフロップ",
       "GTO",
       "ソルバー",
-      "AK"
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/kU9aFRLuw5A/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -6614,7 +6594,8 @@
     "tags": [
       "ポジション",
       "MTT",
-      "BTN"
+      "特定のポジション",
+      "特定のスタック"
     ],
     "thumbnail": "https://i.ytimg.com/vi/PZPLctbKxxU/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -7011,7 +6992,7 @@
     "desc": "ショートのX（ポーカー戦略をつぶやきます） https://x.com/shortstackadven ショートのTwitch（生放送でポーカー質問答え ...",
     "tags": [
       "ポジション",
-      "BB"
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/3uyTm_CN990/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -7544,10 +7525,7 @@
     "tags": [
       "上級",
       "入門",
-      "ベット",
-      "上級者",
-      "初級者",
-      "中級者"
+      "ベット"
     ],
     "thumbnail": "https://i.ytimg.com/vi/PNrGBSoSAwk/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -8163,8 +8141,7 @@
     "desc": "poker #テキサスホールデム #ポーカー ※この動画はYouTubeのコミュニティガイドラインに遵守した動画です。ギャンブルや ...",
     "tags": [
       "MTT",
-      "入門",
-      "初級者"
+      "入門"
     ],
     "thumbnail": "https://i.ytimg.com/vi/mWBLjJyrsZE/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -8418,7 +8395,6 @@
       "GTO",
       "レンジ",
       "ポジション",
-      "BB",
       "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/DujU01LqxFY/mqdefault.jpg",
@@ -8932,7 +8908,6 @@
     "tags": [
       "ポストフロップ",
       "入門",
-      "初級者",
       "フロップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/BjVl6WDA6oc/mqdefault.jpg",
@@ -9653,7 +9628,6 @@
     "tags": [
       "レンジ",
       "Cbet",
-      "中級者",
       "レンジCB"
     ],
     "thumbnail": "https://i.ytimg.com/vi/WuAZ4cTXBRs/mqdefault.jpg",
@@ -10059,8 +10033,7 @@
       "ブロッカー",
       "バリュー",
       "テル",
-      "リーク",
-      "上級者向け"
+      "リーク"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/234176147/rectangle_large_type_2_04c0e03ee771580e6cb699d07e1efcdf.jpeg?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
@@ -10138,7 +10111,6 @@
       "GTO",
       "理論",
       "エクスプロイト",
-      "中級者向け",
       "ベット",
       "コール",
       "チェック",
@@ -10190,8 +10162,6 @@
       "勉強法",
       "ツール",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "GTO",
       "エクスプロイト",
       "ソルバー"
@@ -10213,7 +10183,6 @@
       "ツール",
       "ソルバー",
       "GTO",
-      "上級者向け",
       "ICM",
       "FT"
     ],
@@ -10268,8 +10237,6 @@
       "ポストフロップ",
       "理論",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "ブラフ",
       "バリュー",
       "ベット",
@@ -10299,8 +10266,6 @@
       "フォールド",
       "バリュー",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "コール",
       "チェック"
     ],
@@ -10334,7 +10299,6 @@
       "勉強法",
       "ソルバー",
       "リーク",
-      "中級者向け",
       "バリュー",
       "ブラフ",
       "ベット",
@@ -10360,7 +10324,6 @@
     "tags": [
       "理論",
       "勉強法",
-      "上級者向け",
       "ルール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/233511005/rectangle_large_type_2_60d9f8d8fbcc6f64f4b301ed81df063e.png?fit=bounds&quality=85&width=1280",
@@ -10384,8 +10347,6 @@
       "理論",
       "エクスプロイト",
       "初心者向け",
-      "中級者向け",
-      "上級者向け",
       "ツール"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/233373389/rectangle_large_type_2_e313788751f4945aadd8b779e3f31422.png?fit=bounds&quality=85&width=1280",
@@ -10439,8 +10400,6 @@
       "ツール",
       "ソルバー",
       "リーク",
-      "中級者向け",
-      "上級者向け",
       "バリュー",
       "ブラフ",
       "オールイン",
@@ -10514,7 +10473,6 @@
       "マルチウェイ",
       "エクスプロイト",
       "初心者向け",
-      "中級者向け",
       "アンティ",
       "レーキ",
       "バリュー",
@@ -11316,8 +11274,7 @@
     "date": "2025-11-22",
     "desc": "難易度：Lv ポーカープロ・世界のヨコサワがポーカーについてレクチャーする「ヨコサワポーカーチャンネル」へ ...",
     "tags": [
-      "入門",
-      "初心者"
+      "入門"
     ],
     "thumbnail": "https://i.ytimg.com/vi/Qi5iLOdUt8o/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -11539,8 +11496,8 @@
       "GTO",
       "ポジション",
       "MTT",
-      "UTG",
-      "プリフロップ"
+      "プリフロップ",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/XpfpC4qGcwI/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -11557,8 +11514,8 @@
       "GTO",
       "ポジション",
       "MTT",
-      "UTG",
-      "プリフロップ"
+      "プリフロップ",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/AHJKwusaooU/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -13330,8 +13287,8 @@
       "レンジ",
       "ポジション",
       "MTT",
-      "BTN",
-      "コール"
+      "コール",
+      "特定のポジション"
     ],
     "thumbnail": "https://i.ytimg.com/vi/QhQM5nAaqwU/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -13584,9 +13541,7 @@
     "tags": [
       "プリフロップ",
       "レンジ",
-      "3bet",
-      "初級者",
-      "中級者"
+      "3bet"
     ],
     "thumbnail": "https://i.ytimg.com/vi/ngX5OzzFm7o/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -13880,9 +13835,9 @@
     "date": "2025-10-23",
     "desc": "AK（エース・キング）は最強クラスのハンド。 でも「フロップを外したらどうしよう…」と不安に感じたこと、ありませんか？",
     "tags": [
-      "AK",
       "プリフロップ",
-      "オールイン"
+      "オールイン",
+      "特定のハンド"
     ],
     "thumbnail": "https://i.ytimg.com/vi/ly6saxhy21U/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -14460,7 +14415,6 @@
       "ブラフ",
       "ベット",
       "初心者向け",
-      "中級者向け",
       "ツール",
       "ソルバー"
     ],
@@ -14501,9 +14455,7 @@
       "CB",
       "ドロー",
       "ブロッカー",
-      "初心者向け",
-      "中級者向け",
-      "上級者向け"
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/228644166/rectangle_large_type_2_3835c955565251a01c9e2eb53186ee79.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
@@ -14976,8 +14928,7 @@
     "tags": [
       "入門",
       "リンプ",
-      "ポストフロップ",
-      "初級者"
+      "ポストフロップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/U-SqcUxMd0Q/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -15465,8 +15416,7 @@
     "desc": "AQs（スーテッドエースクイーン）はプリフロップで強力なハンドですが、ポストフロップでのプレーこそ勝敗を分ける鍵になり ...",
     "tags": [
       "ポストフロップ",
-      "入門",
-      "初級者"
+      "入門"
     ],
     "thumbnail": "https://i.ytimg.com/vi/BhA80081q7g/mqdefault.jpg",
     "source": "initial_fetch_yt"
@@ -35284,8 +35234,7 @@
       "SRP",
       "チェックレイズ",
       "バリュー",
-      "理論",
-      "中級者向け"
+      "理論"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/126238762/rectangle_large_type_2_30f50a1deed2059d8fd0edf661aa2188.png?fit=bounds&quality=85&width=1280",
     "source": "initial_fetch_creator"
