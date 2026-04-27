@@ -64,6 +64,15 @@ nav {
 .sort-select { height:38px; border:1px solid var(--border); border-radius:var(--radius); background:var(--white); padding:0 0.85rem; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--text-sub); outline:none; cursor:pointer; flex-shrink:0; box-shadow:var(--shadow-sm); }
 
 .tag-row { display:flex; flex-wrap:wrap; gap:0.3rem; align-items:center; }
+.tag-row.collapsed .tag-chip:not(.tag-chip-all) { display:none; }
+.tag-toggle-btn {
+  display:inline-flex; align-items:center; gap:0.2rem;
+  padding:0.16rem 0.6rem; border-radius:100px;
+  border:1px solid var(--border); background:var(--white);
+  font-size:11.5px; font-family:'Inter',sans-serif; color:var(--text-dim);
+  cursor:pointer; transition:all 0.1s; white-space:nowrap; flex-shrink:0;
+}
+.tag-toggle-btn:hover { border-color:var(--border2); color:var(--text); }
 .tag-row-label { font-family:'Inter',sans-serif; font-size:11px; font-weight:600; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.06em; margin-right:0.2rem; }
 .tag-chip { display:inline-flex; align-items:center; padding:0.16rem 0.6rem; border-radius:100px; border:1px solid var(--border); background:var(--white); font-size:12px; font-family:'Noto Sans JP',sans-serif; color:var(--text-sub); cursor:pointer; transition:all 0.1s; white-space:nowrap; }
 .tag-chip:hover { border-color:var(--border2); color:var(--text); }
@@ -181,20 +190,6 @@ nav {
 .card-tag.active-tag { background:var(--text); border-color:var(--text); color:#fff; }
 
 /* いいねボタン */
-.like-btn {
-  display:inline-flex; align-items:center; gap:0.3rem;
-  padding:0.25rem 0.6rem; border-radius:100px;
-  border:1px solid var(--border); background:var(--white);
-  font-size:12px; font-family:'Inter',sans-serif; color:var(--text-dim);
-  cursor:pointer; transition:all 0.15s; flex-shrink:0;
-  user-select:none;
-}
-.like-btn:hover { border-color:#fca5a5; color:#ef4444; background:#fff5f5; }
-.like-btn.liked { border-color:#ef4444; color:#ef4444; background:#fff5f5; }
-.like-btn.liked .like-heart { transform:scale(1.2); }
-.like-heart { transition:transform 0.15s; display:inline-block; }
-.like-count { font-weight:600; min-width:14px; text-align:center; }
-
 /* PAGINATION */
 .pagination { display:flex; justify-content:center; align-items:center; gap:0.35rem; margin-top:1.5rem; flex-wrap:wrap; }
 .page-btn {
@@ -259,7 +254,6 @@ nav {
       <select class="sort-select" id="sortSelect">
         <option value="date-desc">新しい順</option>
         <option value="date-asc">古い順</option>
-        <option value="likes-desc">いいね数順</option>
         <option value="title">タイトル順</option>
         <option value="author">著者順</option>
       </select>
@@ -303,21 +297,10 @@ const PLATFORM_ICON  = { note:'📝', youtube:'▶', blog:'🌐', other:'◉' };
 let articles       = [];
 let activePlatform = 'all';
 let activeTag      = 'all';
-let activeAuthor   = '';   // 著者フィルター
+let activeAuthor   = '';
 let searchQuery    = '';
 let sortMode       = 'date-desc';
 let currentPage    = 1;
-let likes          = {};
-
-/* ════════════════════════════════
-   PERSISTENCE
-════════════════════════════════ */
-function loadLikes() {
-  try { likes = JSON.parse(localStorage.getItem('pokerLibLikes') || '{}'); } catch(e) {}
-}
-function saveLikes() {
-  try { localStorage.setItem('pokerLibLikes', JSON.stringify(likes)); } catch(e) {}
-}
 
 /* ════════════════════════════════
    FETCH
@@ -358,7 +341,6 @@ function getFiltered() {
   list.sort((a,b) => {
     if (sortMode==='date-desc')  return new Date(b.date)-new Date(a.date);
     if (sortMode==='date-asc')   return new Date(a.date)-new Date(b.date);
-    if (sortMode==='likes-desc') return (likes[b.id]||0)-(likes[a.id]||0);
     if (sortMode==='title')      return (a.title||'').localeCompare(b.title||'','ja');
     if (sortMode==='author')     return (a.author||'').localeCompare(b.author||'','ja');
     return 0;
@@ -388,14 +370,21 @@ function setPlatform(p) {
 function renderTagRow() {
   const row  = document.getElementById('tagRow');
   const tags = getAllTags();
-  const allBtn = `<button class="tag-chip ${activeTag==='all'?'active':''}" data-tag="all">すべて</button>`;
+  const allBtn = `<button class="tag-chip tag-chip-all ${activeTag==='all'?'active':''}" data-tag="all">すべて</button>`;
   const chips  = tags.map(t =>
     `<button class="tag-chip ${activeTag===t?'active':''}" data-tag="${esc(t)}">${esc(t)}</button>`
   ).join('');
-  row.innerHTML = `<span class="tag-row-label">Tag</span>${allBtn}${chips}`;
+  const isCollapsed = row.classList.contains('collapsed');
+  const toggleLabel = isCollapsed ? `▼ タグを展開 (${tags.length})` : `▲ 折りたたむ`;
+  row.innerHTML = `<span class="tag-row-label">Tag</span>${allBtn}${chips}<button class="tag-toggle-btn" id="tagToggleBtn">${toggleLabel}</button>`;
+
   row.querySelectorAll('.tag-chip').forEach(b => b.addEventListener('click', () => {
     activeTag = b.dataset.tag; currentPage = 1; renderTagRow(); renderCards();
   }));
+  document.getElementById('tagToggleBtn').addEventListener('click', () => {
+    row.classList.toggle('collapsed');
+    renderTagRow();
+  });
 }
 
 function renderCards() {
@@ -424,8 +413,6 @@ function renderCards() {
     const pcls   = PLATFORM_CLS[a.platform]   || 'pb-other';
     const plabel = PLATFORM_LABEL[a.platform] || 'Other';
     const picon  = PLATFORM_ICON[a.platform]  || '◉';
-    const likeCount = likes[a.id] || 0;
-    const isLiked   = likes[a.id + '_liked'] ? 'liked' : '';
 
     // プラットフォーム別ドット色
     const dotColor = {
@@ -476,10 +463,6 @@ function renderCards() {
         ${cleanDesc ? `<p class="card-desc">${esc(cleanDesc)}</p>` : ''}
         <div class="card-bottom">
           <div class="card-tags">${tagsHtml}</div>
-          <button class="like-btn ${isLiked}" data-id="${esc(a.id)}" onclick="event.stopPropagation()">
-            <span class="like-heart">${isLiked ? '❤️' : '🤍'}</span>
-            <span class="like-count">${likeCount}</span>
-          </button>
         </div>
       </div>
     </div>`;
@@ -511,29 +494,6 @@ function renderCards() {
     card.addEventListener('click', () => {
       const url = card.dataset.url;
       if (url && url !== '#') window.open(url, '_blank', 'noopener');
-    });
-  });
-
-  // いいね
-  el.querySelectorAll('.like-btn').forEach(btn => {
-    btn.addEventListener('click', e => {
-      e.stopPropagation();
-      const id = btn.dataset.id;
-      const alreadyLiked = likes[id + '_liked'];
-      if (alreadyLiked) {
-        likes[id] = Math.max(0, (likes[id]||0) - 1);
-        delete likes[id + '_liked'];
-      } else {
-        likes[id] = (likes[id]||0) + 1;
-        likes[id + '_liked'] = 1;
-      }
-      saveLikes();
-      // ボタンだけ即更新
-      const count = likes[id] || 0;
-      const liked = !!likes[id + '_liked'];
-      btn.className = 'like-btn' + (liked ? ' liked' : '');
-      btn.querySelector('.like-heart').textContent = liked ? '❤️' : '🤍';
-      btn.querySelector('.like-count').textContent = count;
     });
   });
 
@@ -597,10 +557,11 @@ document.getElementById('clearAuthorBtn').addEventListener('click', () => {
    INIT
 ════════════════════════════════ */
 async function init() {
-  loadLikes();
   articles = await fetchArticles();
   document.getElementById('loadingOverlay').style.display = 'none';
   document.getElementById('cardList').style.display       = 'flex';
+  // タグ一覧は初期状態で折りたたむ
+  document.getElementById('tagRow').classList.add('collapsed');
   renderAll();
 }
 
