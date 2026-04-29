@@ -36959,6 +36959,21 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-e4f16d1a34",
+    "title": "ポットジオメトリー",
+    "url": "https://japan.gtowizard.com/blog/pot-geometry/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-05-09",
+    "desc": "ポットジオメトリーとは 「ポットジオメトリー」とは、それぞれのストリートでポットに対して同じ割合のサイズでベットをし、リバーまでにオールインすることを指します。この戦略はジオメトリックベットサイズやGGOPとも呼ばれます…",
+    "tags": [
+      "オールイン",
+      "ベット"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/05/pot_geometry.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-29a0c9c441",
     "title": "A Champion’s Guide to Knockout Poker Formats",
     "url": "https://blog.gtowizard.com/a-champions-guide-to-knockout-poker-formats/",
@@ -37012,6 +37027,20 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-7c79790130",
+    "title": "ターン戦略の原則",
+    "url": "https://japan.gtowizard.com/blog/principles-of-turn-strategy/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-05-06",
+    "desc": "ターンの特徴とは ターンは他のストリートと異なる点がいくつかあります。 ポットが大きくなり、ベットする機会が少なくなると、プレイヤーは自分のハンドの強さに従ってプレイするようになります。 ターンではフロップよりも「正直に…",
+    "tags": [
+      "ターン"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/05/Princeple_turn.jpg",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-933242bddf",
     "title": "【MTT】OOP Middle Stackの一発ALL-INを考える",
     "url": "https://note.com/zoomagaaa/n/n3bca3a1f7791",
@@ -37062,6 +37091,23 @@
     "source": "initial_fetch_yt"
   },
   {
+    "id": "auto-b4a2ce2778",
+    "title": "ディレイCベット",
+    "url": "https://japan.gtowizard.com/blog/delayed-c-betting/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-05-02",
+    "desc": "この記事は単体でも読むことはできますが、「プローブベット」の記事と合わせて読むことでより理解が深まります。 ディレイCベットとはプリフロップでのアグレッサーがフロップでチェックし、ターンでベットすることです。 多くのプレ…",
+    "tags": [
+      "ターン",
+      "ベット",
+      "チェック",
+      "CB"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/05/delay-c.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-555993b6d4",
     "title": "Turn Check-Raise Heuristics",
     "url": "https://blog.gtowizard.com/turn-check-raise-heuristics/",
@@ -37101,6 +37147,21 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/197398861/rectangle_large_type_2_31a0731d2d93ad8063e3b93b072694d6.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-1b1e0184ce",
+    "title": "プローブベット",
+    "url": "https://japan.gtowizard.com/blog/probe-betting/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-04-29",
+    "desc": "「前のストリートでレイズしたプレイヤーにアクションが回るまでチェックする」というのは良い法則です。前のストリートでのアグレッサーはポラライズしたレンジになっていることが多く、ベットする動機があります。それに対し、前のスト…",
+    "tags": [
+      "理論",
+      "BMCB"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/04/prove_bet.png",
+    "source": "initial_fetch_web"
   },
   {
     "id": "auto-cd174ba6bb",
@@ -37183,6 +37244,37 @@
     ],
     "thumbnail": "https://i.ytimg.com/vi/IPbxB9G3OPs/mqdefault.jpg",
     "source": "initial_fetch_yt"
+  },
+  {
+    "id": "auto-f27d9fcf6b",
+    "title": "Nash Distanceを理解しよう",
+    "url": "https://japan.gtowizard.com/blog/understanding-nash-distance/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-04-25",
+    "desc": "ソルバーで勉強する際によくある質問の1つは、「あるアクションの方がEVが高いのに、なぜソルバーはこのアクションを取るのか」というものです。例えば、以下のシナリオでは、チェックの方がベットよりもEVが高いことがわかります。…",
+    "tags": [
+      "GTO",
+      "理論",
+      "ソルバー"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/04/1280x720-Blogpost-2.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-287fcc53a3",
+    "title": "ポーカーでバリューベットをする理由",
+    "url": "https://japan.gtowizard.com/blog/reasons-for-value-betting-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-04-22",
+    "desc": "バリューとは 多くの人は、ベットをバリューかブラフのどちらかに分けて考えています。バリューベットとは相手のより弱いハンドにコールしてもらうことで、ブラフベットとは相手の強いハンドをフォールドさせることです。他にもセミブラ…",
+    "tags": [
+      "バリュー",
+      "ベット"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/04/1920x1080-Blogpost-1.png",
+    "source": "initial_fetch_web"
   },
   {
     "id": "auto-abfaaaa018",
@@ -37568,6 +37660,21 @@
     ],
     "thumbnail": "",
     "source": "initial_fetch_creator"
+  },
+  {
+    "id": "auto-1e9c7d6c50",
+    "title": "ポーカーAI研究の先駆者",
+    "url": "https://japan.gtowizard.com/blog/pioneering-poker-ai-research/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-04-02",
+    "desc": "ポーカーは交渉、オークション、サイバーセキュリティなど、実世界のさまざまな分野と密接に関連しており、過去数十年間、ゲーム理論や人工知能（AI）の分野において重要なテーマとなってきました。実際、ポーカーほど情報が秘匿されて…",
+    "tags": [
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/03/1280x720-Blogpost-1.png",
+    "source": "initial_fetch_web"
   },
   {
     "id": "auto-b9f0898e5f",
@@ -38909,6 +39016,21 @@
     "source": "fetch_creator"
   },
   {
+    "id": "auto-7a133ddb99",
+    "title": "レンジの形態学",
+    "url": "https://japan.gtowizard.com/blog/range-morphology/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-01-17",
+    "desc": "上級者になるには、レンジで考える能力が必要となります。これは1326通りのハンドの組み合わせを全て頭の中でイメージするのではなく、レンジを構造として考えることです。 「形態学」とは、形や構造を研究する学問です。ポーカーで…",
+    "tags": [
+      "理論",
+      "レンジ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-3.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-92460f22cd",
     "title": "【ポーカー初心者必見】爆勝ちできるAxスーテッドの扱い方（プリフロップ編）",
     "url": "https://www.youtube.com/watch?v=A_Hozur5-5Y",
@@ -39037,6 +39159,35 @@
       "GTO"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2024/01/gto-wizard-turn-barreling-in-3-bet-pots-blogpost-thumbnail-2.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-2c0567612e",
+    "title": "【初心者向け】コンボ数の数え方",
+    "url": "https://japan.gtowizard.com/blog/a-beginners-guide-to-poker-combinatorics/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-01-09",
+    "desc": "",
+    "tags": [
+      "特定のハンド",
+      "初心者向け"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-6.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-79d8f81bb8",
+    "title": "レイズの計算方法",
+    "url": "https://japan.gtowizard.com/blog/how-to-calculate-raises-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2024-01-09",
+    "desc": "レイズの大きさをポットのパーセンテージで計算する方法をご存知でしょうか。実は公式を使うと、簡単に計算することができます。 レイズの大きさをポットのパーセンテージで計算するには、以下の手順で行います。 例えば、SBが6BB…",
+    "tags": [
+      "レイズ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1280x720-Blogpost.jpg",
     "source": "initial_fetch_web"
   },
   {
@@ -39351,6 +39502,22 @@
     "source": "initial_fetch_creator"
   },
   {
+    "id": "auto-cfda465cad",
+    "title": "ポーカー初心者が学ぶべき10のこと",
+    "url": "https://japan.gtowizard.com/blog/https-blog-gtowizard-com-the-10-most-important-concepts-for-new-poker-players/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-17",
+    "desc": "わからない用語が出てきたら、ポーカー用語集で確認してみてください。 1. ゲーム理論を学ぶ ポーカーを基礎から学び始めることはとても重要です。昔のプレイヤーは感覚でポーカーを学んでいましたが、現在では感覚で学んでもなかな…",
+    "tags": [
+      "GTO",
+      "理論",
+      "初心者向け"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1280x720-Blogpost-2.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-d106d103ce",
     "title": "低SPRにおける3bpの攻防【MTT】",
     "url": "https://note.com/soccer76kor244/n/n2f963cc9b36f",
@@ -39378,6 +39545,20 @@
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/124599535/rectangle_large_type_2_7e011c6880e15034f562a37bdd1c2c78.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-96c5a7f6c7",
+    "title": "GTOはどこを目指しているのか？",
+    "url": "https://japan.gtowizard.com/blog/what-does-gto-aim-to-achieve/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-13",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1280x720-Blogpost.png",
+    "source": "initial_fetch_web"
   },
   {
     "id": "auto-a8d7027b54",
@@ -39457,6 +39638,172 @@
       "ポジション"
     ],
     "thumbnail": "https://blog.gtowizard.com/wp-content/uploads/2023/11/gto-wizard-preflop-button-mastery-in-pkos-blogpost-thumbnail.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-752107fc81",
+    "title": "GTOソリューションの勉強方法",
+    "url": "https://japan.gtowizard.com/blog/how-to-study-gto-solutions/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "GTO Wizardやソルバーのようなツールは、特定の戦略を暗記するために使うべきではありません。暗記するシナリオがあまりにも多すぎるからです。そのように使うのではなく、スタックの深さ、レンジアドバンテージ、ナッツアドバ…",
+    "tags": [
+      "GTO",
+      "理論",
+      "勉強法",
+      "ツール",
+      "ソルバー"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1440x810-Blogpost.jpg",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-86bb583216",
+    "title": "GTO Wizardになる方法",
+    "url": "https://japan.gtowizard.com/blog/how-to-become-a-gto-wizard/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "GTOポーカーの素晴らしい世界へようこそ！この記事はGTO Wizardへのロードマップとなるでしょう。 ポーカーをマスターするには、勉強と練習と努力が必要です。言語や楽器と同じく、一夜で習得することはできません。幸運な…",
+    "tags": [
+      "GTO",
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1920x1080-Blogpost-13.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-9afb925433",
+    "title": "ポーカーの組み合わせ論",
+    "url": "https://japan.gtowizard.com/blog/combinatorics-poker-puzzle/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "ポーカー",
+      "理論"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-9.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-e53bb6d34c",
+    "title": "ポーカーの勉強の道",
+    "url": "https://japan.gtowizard.com/blog/the-art-of-learning-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "チェスと推手のチャンピオンであるJosh Waitzkinは、その著書「The Art of Learning」の中で、「小さな円を描く」というトレーニング方法について述べています。武術では、特定の動きの核をまずは大きな…",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1280x720-Blogpost-4.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-c7f3180500",
+    "title": "レンジによって戦略は変わるのか",
+    "url": "https://japan.gtowizard.com/blog/does-your-range-affect-your-strategy/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論",
+      "レンジ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-8.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-da15820658",
+    "title": "トイゲームの解き方",
+    "url": "https://japan.gtowizard.com/blog/how-to-solve-toy-games/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-7.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-fba927df61",
+    "title": "ポーカーにおけるGTOとは？",
+    "url": "https://japan.gtowizard.com/blog/what-is-gto-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "GTO"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1280x720-Blogpost-3.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-a3a097f3eb",
+    "title": "ポットオッズとは",
+    "url": "https://japan.gtowizard.com/blog/what-are-pot-odds-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "ポットオッズとは、コールするにはポットをどれくらい獲得する必要があるかを示した数値です。ポットオッズは簡単に計算できるのでポーカープレイヤーであれば誰もが知っておくべき概念です。 この記事では、ポットオッズの概念、計算方…",
+    "tags": [
+      "理論",
+      "コール",
+      "オッズ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-5.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-33193afcc2",
+    "title": "フォールドエクイティの価値とは",
+    "url": "https://japan.gtowizard.com/blog/the-value-of-fold-equity-experiment/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論",
+      "フォールド",
+      "エクイティ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1920x1080-Blogpost-11.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-1faf2d8a97",
+    "title": "インプライドオッズ",
+    "url": "https://japan.gtowizard.com/blog/visualizing-implied-odds/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "オッズ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-16.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-3fc00fc57d",
+    "title": "ポーカーでの数学的な誤解",
+    "url": "https://japan.gtowizard.com/blog/mathematical-misconceptions-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-4.png",
     "source": "initial_fetch_web"
   },
   {
