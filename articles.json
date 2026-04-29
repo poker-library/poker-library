@@ -39807,6 +39807,49 @@
     "source": "initial_fetch_web"
   },
   {
+    "id": "auto-0ef8928051",
+    "title": "ポーカーにおける期待値とは？",
+    "url": "https://japan.gtowizard.com/blog/what-is-expected-value-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-2.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-85577a2168",
+    "title": "ポーカーにおけるエクイティとは？",
+    "url": "https://japan.gtowizard.com/blog/what-is-equity-in-poker/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "理論",
+      "エクイティ"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2024/01/1920x1080-Blogpost-14.png",
+    "source": "initial_fetch_web"
+  },
+  {
+    "id": "auto-f43bac18e7",
+    "title": "ICMの基本",
+    "url": "https://japan.gtowizard.com/blog/icm-basics/",
+    "author": "GTO Wizard Japan",
+    "platform": "blog",
+    "date": "2023-12-05",
+    "desc": "",
+    "tags": [
+      "ICM"
+    ],
+    "thumbnail": "https://japan.gtowizard.com/wp-content/uploads/2023/12/1920x1080-Blogpost-10.png",
+    "source": "initial_fetch_web"
+  },
+  {
     "id": "auto-ce1cacf0a9",
     "title": "ポストフロップにおけるICM",
     "url": "https://note.com/zoomagaaa/n/n77365682292d",
