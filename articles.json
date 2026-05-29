@@ -1,5 +1,668 @@
 [
   {
+    "id": "auto-8930a05db1",
+    "title": "そのBBコールは死に金。3xオープンに「7割フォールド」すべき科学的根拠",
+    "url": "https://note.com/7poke_poker/n/n9e0304d466a5",
+    "author": "「ぽ」のハナシ🃏🐟 | 本気ドリル・基礎クイズから、「ぽ」な日常・ニュースまでなんでもあり",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "本記事は以下の記事を取り上げ、独自の視点で解説を加えた解説記事です。 出典・引用元: How to Adjust Against 3x Opens in Live Poker Tournaments 3xオープンは罠だ 続きをみる",
+    "tags": [
+      "特定のポジション",
+      "特定の環境",
+      "コール",
+      "フォールド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279187528/rectangle_large_type_2_779317e75e75c7baaac71e43bcaac900.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-5349678cb5",
+    "title": "ポーカー数学の基本とソルバー結果の読み方",
+    "url": "https://note.com/yusuke_poker_th/n/n464f5042dabf",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "GTOを学ぶうえで、数学は避けて通れません。ただし、ポーカー数学を学ぶ目的は、テーブル上で毎回複雑な計算をすることではありません。 本当に大切なのは、判断を「勝ったか負けたか」ではなく「長期的に得か損か」で見られるようになることです。 続きをみる",
+    "tags": [
+      "GTO",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279169456/rectangle_large_type_2_bc3cde76065a79cdb3e454208c100168.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-bdcc8e85e1",
+    "title": "ポーカーソルバー結果の読み方 混合頻度を暗記しない学習法",
+    "url": "https://note.com/yusuke_poker_th/n/nc75aff869dbf",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "ソルバーを使い始めると、最初に目に入るのは細かい数字です。 このハンドは何%ベットなのか。このコンボだけなぜチェックなのか。このスートではなぜレイズが混ざるのか。あるハンドが37%でベット、63%でチェックのように表示されると、その数字自体を覚えたくなります。 続きをみる",
+    "tags": [
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279168457/rectangle_large_type_2_0af1fc849cb934f6e2f8569c10b8d994.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-0475e665bd",
+    "title": "ポーカーGTO学習の始め方 正解暗記ではなく判断基準を作る",
+    "url": "https://note.com/yusuke_poker_th/n/n35d9a7013a98",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "ポーカーを真剣に学び始めると、かなり早い段階で「GTO」という言葉に出会います。GTO Wizard、ソルバー、ナッシュ均衡、レンジ、EV、ブロッカー。ひとつずつ調べると、どれも重要そうに見えます。しかし最初から全部を理解しようとすると、ほとんどの場合は情報量に押しつぶされます。 GTO学習で最初に必要なのは、細かい頻度を覚えることではありません。まず必要なのは、「何を、どの順番で、何のために学ぶ",
+    "tags": [
+      "GTO",
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279166959/rectangle_large_type_2_56ce6cdab5f9e9f74529776d55cb6980.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c2faf4e29e",
+    "title": "【ポーカー戦略】うまくいかない時の改善ポイント7選",
+    "url": "https://note.com/pokerpokerpro/n/n4ac2d5dd991c",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "こんばんは、 ポーカープロのtori🦜です。 今回は、 「うまくいかない時の改善ポイント7選」 を解説します。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/279115121/rectangle_large_type_2_75a99ebd5da8cc15fca6d084b29a0e76.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e39a88d348",
+    "title": "【ポーカー戦略的エクスプロイト】「同じ相手」と打ち続ける環境で勝率を利益に変えるチップ最大化アルゴリズム〜3つのスコアで全プレイヤーをベクトル化する対レギュラー戦術〜",
+    "url": "https://note.com/noble_emu6165/n/nbe71c0fad9b2",
+    "author": "noble(多角的視野を広める)",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "ポーカーの教科書に書かれている「GTO（ゲーム理論最適）戦略」は、不特定多数の強豪と戦うための防御の盾に過ぎません。しかし、もしあなたが「いつも同じ相手と打ち続ける環境」にいるなら、GTOを愚直に守ることは、目の前に落ちているチップを自ら手放すのと同じです。同じ相手と打ち続ける環境（キャッシュゲーム、身内のセット、特定のレギュラープレイヤーとの対戦など）こそ、実力差が最もチップ量に直結するボーナス",
+    "tags": [
+      "キャッシュゲーム",
+      "エクスプロイト",
+      "リーク"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8f7cdb5bf8658c3ed8d7fcbeccbb45126251dab9.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-260504f69f",
+    "title": "【Ten-Four復習 #4】3-bet pot非アグレッサー 耐えるポケットと耐えないポケット",
+    "url": "https://note.com/fukka0000/n/nb56ead362971",
+    "author": "机上の空論レクリエーショナル",
+    "platform": "note",
+    "date": "2026-05-24",
+    "desc": "今回のSituation お互いの情報 続きをみる",
+    "tags": [
+      "3BP",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277702153/rectangle_large_type_2_fbe35d8dfdc727eaf33d36417a350fa7.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d33fde7730",
+    "title": "初心者が最初に押さえるポーカー戦略の土台",
+    "url": "https://note.com/yusuke_poker_th/n/ne6f1d5edc694",
+    "author": "Yusuke",
+    "platform": "note",
+    "date": "2026-05-23",
+    "desc": "ポーカーを学び始めると、すぐに大量の用語に出会います。EV、エクイティ、ポットオッズ、レンジ、ポジション、SPR、MDF、インプライドオッズ、分散。どれも重要そうに見えますが、最初から一つひとつを独立した知識として覚えようとすると、学習がかなり散らかります。 初心者にとって大切なのは、用語の数を増やすことではありません。まずは、ポーカーの判断がどのような考え方で組み立てられているのかをつかむことで",
+    "tags": [
+      "勉強法",
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/278734436/rectangle_large_type_2_e741d03c94324d0cf10a4d0b04104a04.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-93da0d67c8",
+    "title": "BWsの正しいプレイ",
+    "url": "https://www.youtube.com/watch?v=yGbNj9BJg_g",
+    "author": "GTO Wizard Japan",
+    "platform": "youtube",
+    "date": "2026-05-23",
+    "desc": "様々なアクションが候補に現れるBWsの扱い方について解説をしています。 PFにおける使い方を主題として3betやCCの他4bet ...",
+    "tags": [
+      "特定のハンド"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/yGbNj9BJg_g/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-e20649bafa",
+    "title": "現代ポーカー戦術の最前線",
+    "url": "https://note.com/xxctimexx/n/n246eee4aab40",
+    "author": "ポカラボ東京♠by ポーカークレイジータイム新橋",
+    "platform": "note",
+    "date": "2026-05-22",
+    "desc": "GTO Wizard・Upswing Pokerから考える「勝てる学習」と実戦判断 続きをみる",
+    "tags": [
+      "GTO",
+      "勉強法",
+      "ソルバー"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/278540605/rectangle_large_type_2_1fcc3948656c0e8fdf4d2088ab55a634.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-c3dbaefcac",
+    "title": "【プロが教える】ポーカーで勝つための勉強法",
+    "url": "https://note.com/merrypoker/n/neabc471a64e2",
+    "author": "メリー@海外トーナメント",
+    "platform": "note",
+    "date": "2026-05-22",
+    "desc": "こんにちは、メリーです。 「今のハンド、コールでよかったのかな？」 「レイズを安くするべきだった？」 プレイ中にこんな風に迷ったハンドを、 結局うやむやにして終わらせていませんか？ 続きをみる",
+    "tags": [
+      "勉強法"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/278435213/rectangle_large_type_2_69b4c1f8b57aa654cc24429f9438a159.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-a8ca750006",
+    "title": "【ポーカー戦略】少額ベットへの対応とハンドリーディング",
+    "url": "https://note.com/pokerpokerpro/n/nf77524e29459",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-22",
+    "desc": "こんにちは、 ポーカープロのtori🐦です。 今回のテーマは 「少額ベットへの対応とハンドリーディング」 です。 続きをみる",
+    "tags": [
+      "ベット"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/00d4fa7b2d4db2ab4731d6eb5264e77be24faf39.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-3f7ad820ea",
+    "title": "【保存版】ブラフが通る場面・通らない場面｜判断基準を完全整理",
+    "url": "https://note.com/poker_note_aa/n/n7fa7b09d4266",
+    "author": "EquityLog",
+    "platform": "note",
+    "date": "2026-05-21",
+    "desc": "ポーカーを始めると、必ずこんな場面に遭遇します。 「ここ、ブラフしてみようかな……でも怖い」 「ブラフしたら呼ばれた。また失敗した……」 「逆に相手のブラフに引っかかった！見抜けなかった」 続きをみる",
+    "tags": [
+      "ブラフ"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/088df1ddd2f502e3f89866c534c80d1c1a4b557c.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-078079bf78",
+    "title": "【Ten-Four復習 #3】MultiwayのTop hitの価値を均衡ぽく考えてみる",
+    "url": "https://note.com/fukka0000/n/n55a630577bfb",
+    "author": "机上の空論レクリエーショナル",
+    "platform": "note",
+    "date": "2026-05-21",
+    "desc": "今回のSituation ※Multi-wayのsolverを触れないため、空想です。 続きをみる",
+    "tags": [
+      "マルチウェイ",
+      "GTO",
+      "ソルバー",
+      "特定の役"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/276942744/rectangle_large_type_2_8a05f0d4ccf770f52f8ace9757ed8834.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-8fdd5b5756",
+    "title": "ディーラーが見てきた。メンタルが崩れる初心者のパターン5選",
+    "url": "https://note.com/pro_tako/n/ncf232ed3b953",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-05-21",
+    "desc": "導入 「なんで今日こんなに負けてるんだろう」 続きをみる",
+    "tags": [
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/278142456/rectangle_large_type_2_a8b7161e175f4e0e0c6e9b639162c9e6.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-ddc3a82f65",
+    "title": "ポーカープレーヤーの評価方法確立",
+    "url": "https://note.com/rainyurumo/n/n101e694df912",
+    "author": "トランシア（西岡　稔）",
+    "platform": "note",
+    "date": "2026-05-21",
+    "desc": "こんかいの試みはどんなポーカープレイスタイルの人が勝っているのか、生き残れているのかを改ざん不可でかつ、可視化できる。そしてさらにはトーナメント参加費などの支払い支援を即座に行えるシステムの開発仕様書を置いておきます。 これらの情報からそのトーナメント（大会）で上位のプレーヤー層の生存戦略を丸裸にし、そして最後の一人にのこった人が行った戦略まで分かるようにすることです。 続きをみる",
+    "tags": [],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fb26e39fb58c7ae11a0d361e3d1db39e56ddfb52.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b91d5e5fc1",
+    "title": "ポーカーGTOトレーニング～ターン編⑫～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=2ewDr1M-_fQ",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/2ewDr1M-_fQ/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-a90222751a",
+    "title": "ポーカーGTOトレーニング～ターン編⑮～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=AM4ZWXLLr9A",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/AM4ZWXLLr9A/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-9815fea744",
+    "title": "ポーカーGTOトレーニング～ターン編⑭～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=PGHSHOs1f1g",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/PGHSHOs1f1g/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-85ee21ec13",
+    "title": "ポーカーGTOトレーニング～ターン編⑬～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=SmVdzZoDT9o",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/SmVdzZoDT9o/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-e302d3c4d2",
+    "title": "ポーカーGTOトレーニング～ターン編⑨～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=4rLhCnLQ7d4",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/4rLhCnLQ7d4/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-c6d1dd3462",
+    "title": "ポーカーGTOトレーニング～ターン編⑪～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=IMlvaEEmRKg",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/IMlvaEEmRKg/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-183f0e91e5",
+    "title": "ポーカーGTOトレーニング～ターン編⑩～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=ELcyRGSbxno",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/ELcyRGSbxno/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-54e1dd642a",
+    "title": "ポーカーGTOトレーニング～ターン編⑥～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=eL_L08FOPc0",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/eL_L08FOPc0/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-73b0871e7c",
+    "title": "ポーカーGTOトレーニング～ターン編⑤～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=82RTN6CqeCU",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/82RTN6CqeCU/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-89b44e7d91",
+    "title": "ポーカーGTOトレーニング～ターン編⑦～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=0IshpLOdgjQ",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/0IshpLOdgjQ/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-f2dccb8730",
+    "title": "ポーカーGTOトレーニング～ターン編④～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=F7-ykBhCztg",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/F7-ykBhCztg/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-80fa688bbb",
+    "title": "ポーカーGTOトレーニング～ターン編③～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=BikjYJrxO_s",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/BikjYJrxO_s/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-ff5524afc2",
+    "title": "ポーカーGTOトレーニング～ターン編⑤～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=M5xHdsRcRO8",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/M5xHdsRcRO8/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-4c9fd6fede",
+    "title": "ポーカーGTOトレーニング～ターン編①～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=OMFpmBn509Y",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/OMFpmBn509Y/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-4a5582b3d7",
+    "title": "ポーカーGTOトレーニング～ターン編②～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=k3ksWA6Idss",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "ターン",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/k3ksWA6Idss/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-657722c375",
+    "title": "ポーカーGTOトレーニング～フロップ編⑭～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=14YYi7xASzU",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/14YYi7xASzU/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-94953b977a",
+    "title": "ポーカーGTOトレーニング～フロップ編⑫～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=DcMbGt2VLkA",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/DcMbGt2VLkA/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-393f6e7fef",
+    "title": "ポーカーGTOトレーニング～フロップ編⑬～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=s45-oYhK_PU",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/s45-oYhK_PU/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-f13cf35378",
+    "title": "ポーカーGTOトレーニング～フロップ編⑮～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=MpCkSvHDofg",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/MpCkSvHDofg/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-1b32f13ca1",
+    "title": "ポーカーGTOトレーニング～フロップ編⑩～ #poker#gto #ポーカー戦略",
+    "url": "https://www.youtube.com/watch?v=6t2j6bVLeQ4",
+    "author": "ポーカーGTO研究所",
+    "platform": "youtube",
+    "date": "2026-05-21",
+    "desc": "GTO（ゲーム理論最適）に基づいたポーカー戦略を、ドリル形式で徹底解説するチャンネル。 ショート動画で毎日1問、GTO ...",
+    "tags": [
+      "フロップ",
+      "GTO",
+      "理論"
+    ],
+    "thumbnail": "https://i.ytimg.com/vi/6t2j6bVLeQ4/mqdefault.jpg",
+    "source": "youtube_api"
+  },
+  {
+    "id": "auto-cc1a57514a",
+    "title": "【ポーカー戦略/トーナメント】SBvsBBのカウンターエクスプロイト戦略①※上級者向け",
+    "url": "https://note.com/pokerpokerpro/n/n2487368cbdbb",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-20",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 前回に続いて、 バブルラインやFT序盤など、 BFが大きな状況での戦略について解説します。 続きをみる",
+    "tags": [
+      "MTT",
+      "特定のポジション",
+      "エクスプロイト",
+      "上級者向け",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277762784/rectangle_large_type_2_2c2a9e862b72f964a159d34353f3a838.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-d5c0908cdc",
+    "title": "ディーラーが一番困る。テーブルで起きやすいルールトラブル5選",
+    "url": "https://note.com/pro_tako/n/n8913b8989179",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-05-20",
+    "desc": "導入 「あれ、これってルール違反じゃないですか？」 続きをみる",
+    "tags": [
+      "ルール"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277394758/rectangle_large_type_2_638228f55fc935150696f7650508e58a.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-1888a313a1",
+    "title": "ディーラーが密かに注目している。上手くなるのが早い初心者の特徴5選",
+    "url": "https://note.com/pro_tako/n/n6443c62ba493",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-05-20",
+    "desc": "導入 「この人、初心者なのに強くなるのが早いな」 続きをみる",
+    "tags": [
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277395609/rectangle_large_type_2_f0b685eabf088d2e9e6a40c50811ac06.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-9bc3f452f3",
+    "title": "INFORMATION ON THE PROCESSING OF PERSONAL DATA",
+    "url": "https://blog.gtowizard.com/cookie-policy/",
+    "author": "GTO Wizard",
+    "platform": "blog",
+    "date": "2026-05-20",
+    "desc": "BASIC SUMMARY Via a so-called cookie toolbar located on the website (' Toolbar '), you can provide consent to the company amagama s.r.o. to process your personal data in connection with the saving of ",
+    "tags": [
+      "理論"
+    ],
+    "thumbnail": "https://blog.gtowizard.com/content/2026/04/1200x630--2-.png",
+    "source": "web_rss"
+  },
+  {
+    "id": "auto-48ffdf4ac8",
+    "title": "【ポーカー戦略/トーナメント】バブルファクターを考慮したSBvsBBのエクスプロイト戦略①",
+    "url": "https://note.com/pokerpokerpro/n/nf71d10ff8f75",
+    "author": "ポーカープロが解説するよtori🐦",
+    "platform": "note",
+    "date": "2026-05-19",
+    "desc": "こんばんは、 ポーカープロのtori🐦です。 今回もトーナメント中盤以降の戦略を解説します。 続きをみる",
+    "tags": [
+      "MTT",
+      "特定のポジション",
+      "エクスプロイト",
+      "ICM"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277471458/rectangle_large_type_2_f54f82821770846907d075b63c974851.jpeg?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-e19bdf2184",
+    "title": "ディーラーだから見えた。初心者が知らずに損しているプレイ5選",
+    "url": "https://note.com/pro_tako/n/n6c154e2e4f37",
+    "author": "3e4",
+    "platform": "note",
+    "date": "2026-05-19",
+    "desc": "導入 「なんで自分だけいつも負けるんだろう？」 続きをみる",
+    "tags": [
+      "初心者向け"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/277393257/rectangle_large_type_2_3d0c5d986d8efbbeb20fbe233978e546.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
+  },
+  {
+    "id": "auto-301b10ca0d",
+    "title": "NLH MTTにおけるHU preflop戦略",
+    "url": "https://note.com/nikukochan823/n/n2fa8110b50e1",
+    "author": "ティル太郎",
+    "platform": "note",
+    "date": "2026-05-19",
+    "desc": "はじめに 続きをみる",
+    "tags": [
+      "MTT",
+      "プリフロップ",
+      "ヘッズアップ"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/72ada9511af391c87470f7724ec72020b315bf3e.png",
+    "source": "rss"
+  },
+  {
     "id": "auto-270fd6c699",
     "title": "大型大会中盤の生き残りフェーズ｜「気づいたらジリ貧」から脱却するための立ち回り",
     "url": "https://note.com/kuro96note/n/n73156739198f",
@@ -8,10 +671,58 @@
     "date": "2026-05-18",
     "desc": "",
     "tags": [
-      "MTT"
+      "MTT",
+      "ポストフロップ",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の環境",
+      "IP",
+      "OOP",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "MES",
+      "勉強法",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "ICM",
+      "FT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/277015109/rectangle_large_type_2_5cae38e65e383dcc0e30b3fbc37049d9.png?fit=bounds&quality=85&width=1280",
     "source": "fetch_creator"
+  },
+  {
+    "id": "auto-53bf7d1e2f",
+    "title": "【保存版】トーナメントとキャッシュゲームの違い5選｜戦略を切り替えるだけで勝率が変わる",
+    "url": "https://note.com/poker_note_aa/n/na46affa52d6a",
+    "author": "EquityLog",
+    "platform": "note",
+    "date": "2026-05-18",
+    "desc": "はじめに：「同じポーカー」なのに、なぜ勝ち方が違うのか？ ポーカーを始めてしばらく経つと、こんな経験をする人が多いです。 続きをみる",
+    "tags": [
+      "キャッシュゲーム",
+      "MTT"
+    ],
+    "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cad50cff251fd36ad46d3442aad5e31c08c6f728.png",
+    "source": "rss"
+  },
+  {
+    "id": "auto-b08e9ab843",
+    "title": "【Ten-Four復習 #2】3-bettor QQのKhi boardにおけるRiver Betに対する応答",
+    "url": "https://note.com/fukka0000/n/n6934ce1a26b8",
+    "author": "机上の空論レクリエーショナル",
+    "platform": "note",
+    "date": "2026-05-18",
+    "desc": "今回のSituation お互いの情報 続きをみる",
+    "tags": [
+      "リバー",
+      "特定のボード",
+      "ベット",
+      "特定のハンド"
+    ],
+    "thumbnail": "https://assets.st-note.com/production/uploads/images/276953863/rectangle_large_type_2_23737ffba8144e040676138e5e1005c1.png?fit=bounds&quality=85&width=1280",
+    "source": "rss"
   },
   {
     "id": "auto-5752975421",
@@ -21,7 +732,11 @@
     "platform": "note",
     "date": "2026-05-17",
     "desc": "ポーカーは「運ゲー」じゃない。勝ち続ける人が持つ思考法と戦略のすべて はじめに｜「また負けた…」その敗因、実はカードじゃないかもしれない 続きをみる",
-    "tags": [],
+    "tags": [
+      "初心者向け",
+      "中級者向け",
+      "ブラフ"
+    ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fc6655d32bda891500f0ea6a6f571e190df1ae17.png",
     "source": "rss"
   },
@@ -35,9 +750,19 @@
     "desc": "こんばんは、 ポーカープロのtori🐦です。 最近、ポーカーのトーナメントに関する素晴らしい記事が出ましたね。 ※なぜ話題になっていないのでしょうか、、 続きをみる",
     "tags": [
       "MTT",
-      "上級者向け",
+      "ポストフロップ",
+      "フロップ",
+      "特定の環境",
       "ICM",
-      "バブルファクター"
+      "CB",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "ブラフ",
+      "ベット",
+      "コール",
+      "チェック"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/15ad58828f4635382445f5c8da9cd8a7a26c6cff.png",
     "source": "rss"
@@ -51,9 +776,12 @@
     "date": "2026-05-17",
     "desc": "BB vs LJのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
-      "SRP"
+      "プリフロップ",
+      "SRP",
+      "理論",
+      "特定のスタック",
+      "特定の環境"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9LTEXQbzC2A/mqdefault.jpg",
     "source": "youtube_api"
@@ -67,7 +795,15 @@
     "date": "2026-05-17",
     "desc": "ポーカートーナメントの成績について。 数百戦程度では運要素が強いゲーム。あまり気にしないようにしよう！ 【各種学習 ...",
     "tags": [
-      "MTT"
+      "MTT",
+      "GTO",
+      "理論",
+      "勉強法",
+      "初心者向け",
+      "中級者向け",
+      "FT",
+      "サテライト",
+      "特殊ルール"
     ],
     "thumbnail": "https://i.ytimg.com/vi/9_Ftmn2GtJk/mqdefault.jpg",
     "source": "youtube_api"
@@ -81,8 +817,17 @@
     "date": "2026-05-17",
     "desc": "ショートのX（ポーカー戦略をつぶやきます） https://x.com/shortstackadven ショートのTwitch（生放送でポーカー質問答え ...",
     "tags": [
+      "ドロー",
       "ブラフ",
-      "ドロー"
+      "ポストフロップ",
+      "理論",
+      "GTO",
+      "エクスプロイト",
+      "ベット",
+      "コール",
+      "フォールド",
+      "初心者向け",
+      "中級者向け"
     ],
     "thumbnail": "https://i.ytimg.com/vi/qS6niJKy-nI/mqdefault.jpg",
     "source": "youtube_api"
@@ -96,7 +841,24 @@
     "date": "2026-05-16",
     "desc": "こんにちは。 Poker Room TT 店長の中森 です。 「ポーカーの勉強、何から手をつけていいか分からない」 「座学はしているけれど、実戦に活かせていない気がする」 続きをみる",
     "tags": [
-      "勉強法"
+      "勉強法",
+      "理論",
+      "GTO",
+      "ソルバー",
+      "テル",
+      "リーク",
+      "初心者向け",
+      "中級者向け",
+      "上級者向け",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のポジション",
+      "特定の役",
+      "特定のスタック",
+      "特定の環境",
+      "マルチウェイ",
+      "SRP",
+      "3BP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/270513987/rectangle_large_type_2_f72fc2185652e431ed8c12c8d3583f14.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -111,12 +873,20 @@
     "desc": "今回の記事では、ICMフロップ集合分析の第二弾として、バブル付近におけるCB戦略について分析していきます。 ICM集合分析で前提となる基礎知識や考え方については、Part1のドンクベット編でも紹介しておりますので、これを機にあわせてお読みいただければと思います。 構成としては、本記事単体でも理解ができるようにはしておりますので、まだお読みでない方も、是非本記事だけでもどうぞ。 続きをみる",
     "tags": [
       "MTT",
-      "フロップ",
       "ICM",
-      "ベット",
+      "プリフロップ",
       "ポストフロップ",
-      "CB",
-      "特定のスタック"
+      "フロップ",
+      "特定のスタック",
+      "特定の環境",
+      "GTO",
+      "理論",
+      "バリュー",
+      "ブラフ",
+      "ベット",
+      "コール",
+      "チェック",
+      "フォールド"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/274069989/rectangle_large_type_2_30765b6f50d80db577c13a333ad0ef73.jpeg?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -130,9 +900,29 @@
     "date": "2026-05-16",
     "desc": "ハンドログ 続きをみる",
     "tags": [
-      "特定のハンド",
+      "キャッシュゲーム",
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
       "特定のポジション",
-      "SRP"
+      "IP",
+      "OOP",
+      "マルチウェイ",
+      "GTO",
+      "理論",
+      "エクスプロイト",
+      "ブラフ",
+      "コール",
+      "レイズ",
+      "オールイン",
+      "ドロー",
+      "ブロッカー",
+      "SRP",
+      "3BP",
+      "CB",
+      "BMCB"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2794b21390966139b32a72e3433c0e074b702352.png",
     "source": "rss"
@@ -147,7 +937,19 @@
     "desc": "ポーカーを始めたばかりの頃、一番困ったのが「用語」だった。 「UTGからオープンして、BTNにコールされてCBを打ったら…」 続きをみる",
     "tags": [
       "初心者向け",
-      "ルール"
+      "プリフロップ",
+      "フロップ",
+      "ターン",
+      "リバー",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "SRP",
+      "3BP",
+      "CB",
+      "ブラフ",
+      "バリュー",
+      "GTO"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/276555592/rectangle_large_type_2_fb2f38187ba79429bcffaf2bfa92b8f7.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -160,7 +962,18 @@
     "platform": "note",
     "date": "2026-05-16",
     "desc": "先日、youtubeにあるこちらの動画を見返していて、 Souzirouさんが仰っていた発言が、 私にとって改めて、 非常に刺さって心に残ったので文字に起こしてみました。 続きをみる",
-    "tags": [],
+    "tags": [
+      "バリュー",
+      "ブラフ",
+      "コール",
+      "理論",
+      "エクスプロイト",
+      "初心者向け",
+      "中級者向け",
+      "ポストフロップ",
+      "特定の役",
+      "特定のハンド"
+    ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/deef29a5fe5e452484c0694a36df55bd43a63d44.png",
     "source": "rss"
   },
@@ -173,8 +986,27 @@
     "date": "2026-05-16",
     "desc": "導入 「レイズして、もし負けたら怖い」 「コールのほうが安全な気がする」 続きをみる",
     "tags": [
+      "プリフロップ",
+      "ポストフロップ",
+      "フロップ",
+      "特定のハンド",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "IP",
+      "OOP",
+      "バリュー",
+      "ブラフ",
+      "ベット",
       "レイズ",
-      "コール"
+      "コール",
+      "チェック",
+      "チェックレイズ",
+      "フォールド",
+      "SRP",
+      "3BP",
+      "CB",
+      "初心者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/276264006/rectangle_large_type_2_b0f80a2b30583e62388b6e83a74905c6.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -188,9 +1020,8 @@
     "date": "2026-05-16",
     "desc": "BB vs COのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
-      "SRP"
+      "プリフロップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/OHAjXhDRAUc/mqdefault.jpg",
     "source": "youtube_api"
@@ -204,10 +1035,16 @@
     "date": "2026-05-16",
     "desc": "覚えるのが難しく、感覚でプレーすると間違えやすい25BBヘッズアップのプリフロップ戦略を解説します。 今回はGTO Wizardの ...",
     "tags": [
+      "キャッシュゲーム",
       "プリフロップ",
+      "特定のスタック",
+      "特定のポジション",
       "GTO",
       "ソルバー",
-      "ヘッズアップ"
+      "初心者向け",
+      "中級者向け",
+      "SRP",
+      "3BP"
     ],
     "thumbnail": "https://i.ytimg.com/vi/q3u_CFBebf4/mqdefault.jpg",
     "source": "youtube_api"
@@ -221,7 +1058,9 @@
     "date": "2026-05-15",
     "desc": "Shuffle Up and Deal, れくです。 この書き出しということはポーカーの話です。 今回は𝕏に投稿された実際のトラブルと裁定について、TDA認定資格保有の筆者が検討します。 公知情報のみのため、今回は無料です。 役に立った、ためになったと言う方は高評価・チップ・シリーズ記事購読をお願いします。 ポーカールール解説・質疑応答・裁定紹介｜れく｜note ポーカーに関する運営上のルールや質",
     "tags": [
-      "ルール"
+      "MTT",
+      "ルール",
+      "特殊ルール"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fefe5cf45425fed25a57076c731e11dc1b22ec3e.png",
     "source": "rss"
@@ -236,8 +1075,20 @@
     "desc": "0.はじめに 最初に宣言しておきます。 このnoteは、ソルバーの数値を暗記するための「 教科書 」ではありません。 何百時間もかけて、GTOへの理解を深めようといった趣旨のものでもありません。 続きをみる",
     "tags": [
       "MTT",
+      "プリフロップ",
+      "ポストフロップ",
+      "特定のスタック",
+      "特定のポジション",
+      "特定の役",
+      "特定のアクション",
+      "エクスプロイト",
       "初心者向け",
-      "中級"
+      "中級者向け",
+      "オールイン",
+      "ベット",
+      "コール",
+      "フォールド",
+      "SRP"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/276199439/rectangle_large_type_2_e7c6ccc8ae2c25472c8d3c65316f15aa.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -251,7 +1102,14 @@
     "date": "2026-05-15",
     "desc": "導入 「これ、コールしていいの？」 続きをみる",
     "tags": [
-      "コール"
+      "コール",
+      "ドロー",
+      "ブラフ",
+      "初心者向け",
+      "中級者向け",
+      "理論",
+      "エクスプロイト",
+      "ベット"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/276026871/rectangle_large_type_2_6808201125fdd1717c620eb4713c6698.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -265,9 +1123,8 @@
     "date": "2026-05-15",
     "desc": "BB vs COのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
-      "SRP"
+      "プリフロップ"
     ],
     "thumbnail": "https://i.ytimg.com/vi/mefgqI8h0_E/mqdefault.jpg",
     "source": "youtube_api"
@@ -281,11 +1138,14 @@
     "date": "2026-05-14",
     "desc": "こんばんは、 ポーカープロのtori🐦です。 今回は、以下の記事の続編です。 続きをみる",
     "tags": [
+      "MTT",
+      "プリフロップ",
+      "特定のスタック",
+      "特定のポジション",
       "ICM",
-      "ベット",
-      "バブルファクター",
-      "3bet",
-      "プリフロップ"
+      "3BP",
+      "GTO",
+      "理論"
     ],
     "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cabfc31d467fb2b63e8bcbece07cb8c8c36214bc.png",
     "source": "rss"
@@ -300,7 +1160,16 @@
     "desc": "導入 「あの人、また強いカード持ってそう」 続きをみる",
     "tags": [
       "テル",
-      "初心者向け"
+      "初心者向け",
+      "リーク",
+      "特定の役",
+      "特定のアクション",
+      "ブラフ",
+      "レイズ",
+      "コール",
+      "フォールド",
+      "理論",
+      "勉強法"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/275592196/rectangle_large_type_2_471d67eeeaf854dec752be428320648d.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -314,9 +1183,13 @@
     "date": "2026-05-14",
     "desc": "BB vs BTNのシングルレイズドポットに関するGTO戦略のクイズです！！ ＜問題の設定＞ ・9人MAX ・4bb cap/5% ・2.5bb open ...",
     "tags": [
-      "特定のポジション",
       "GTO",
-      "SRP"
+      "プリフロップ",
+      "SRP",
+      "IP",
+      "OOP",
+      "勉強法",
+      "理論"
     ],
     "thumbnail": "https://i.ytimg.com/vi/SWXI04PLYac/mqdefault.jpg",
     "source": "youtube_api"
@@ -354,12 +1227,14 @@
       "レイズ",
       "コール",
       "チェック",
+      "チェックレイズ",
       "フォールド",
       "SRP",
       "3BP",
       "CB",
       "ドロー",
-      "ブロッカー"
+      "ブロッカー",
+      "FT"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/275761291/rectangle_large_type_2_3d87cdc0de580e084b26d84a3108ea42.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
@@ -377,11 +1252,12 @@
       "勉強法",
       "GTO",
       "ソルバー",
+      "プリフロップ",
+      "ポストフロップ",
+      "キャッシュゲーム",
       "初心者向け",
       "中級者向け",
-      "上級者向け",
-      "MTT",
-      "キャッシュゲーム"
+      "上級者向け"
     ],
     "thumbnail": "https://assets.st-note.com/production/uploads/images/275672915/rectangle_large_type_2_77a2231ea270ea03f9555cc3b5a1bf4f.png?fit=bounds&quality=85&width=1280",
     "source": "rss"
